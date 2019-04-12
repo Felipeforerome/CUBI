@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {StyleSheet, Text, View, Button,ScrollView} from "react-native";
+import {Alert, Text, View, Button,ScrollView} from "react-native";
 import preguntasArchivo from '../Assets/preguntas';
 import SegmentedControlTab from "react-native-segmented-control-tab";
 
@@ -31,9 +31,13 @@ class Preguntas extends Component{
             }
         })
         average = Math.round(valor/numPreguntas)
-        thisComp.props.navigation.navigate('Pagos',{
-            valorPerfil: average
-        })
+        if(numPreguntas>=0){
+            thisComp.props.navigation.navigate('Pagos',{
+                valorPerfil: average
+            })
+        }else{
+            Alert.alert("Oh no!", "Hace falta que respondas "+(10-numPreguntas)+ " preguntas", )
+        }
     }
 
     render(){
