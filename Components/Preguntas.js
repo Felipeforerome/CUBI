@@ -18,15 +18,32 @@ class Preguntas extends Component{
         console.log(thisComp.state)
     }
 
+    calcularPerfil=()=>{
+        let valor = 0.00
+        let average = 0.00
+        let numPreguntas = 0.00
+        let thisComp = this
+        Object.keys(this.state).map(function (key) {
+            if(key.includes('Resp')){
+                let valorTemp = thisComp.state[key]
+                valor = valor + valorTemp
+                numPreguntas = numPreguntas + 1
+            }
+        })
+        average = Math.round(valor/numPreguntas)
+    }
+
     render(){
         const preguntas = this.state.preguntas
-        let numPreg
-        let puntaje
-        let contestadas = 2
+        let numPreg = 0
+        let puntaje = 0
+        let contestadas = 0
         var thisComp = this;
 
         return(
             <ScrollView>
+                <Button title={"Listo"}
+                        onPress={this.calcularPerfil}/>
                 {
                     Object.keys(preguntas).map(function (key) {
                         var pregunta = preguntas[key]
@@ -36,7 +53,8 @@ class Preguntas extends Component{
                                 <Button
                                     onPress={() => {
                                         thisComp.setState({
-                                            [pregunta["Pregunta"]]: "1"
+                                            [pregunta["Pregunta"]]: "1",
+                                            [pregunta["Pregunta"]+'Resp']: 1
                                         })
                                     }}
                                     color = {(thisComp.state[pregunta["Pregunta"]] === undefined ? "" : thisComp.state[pregunta["Pregunta"]] === "1" ? "red" :"")}
@@ -45,7 +63,8 @@ class Preguntas extends Component{
                                 <Button
                                     onPress={() => {
                                         thisComp.setState({
-                                            [pregunta["Pregunta"]]: "2"
+                                            [pregunta["Pregunta"]]: "2",
+                                            [pregunta["Pregunta"]+'Resp']: 2
                                         })
                                     }}
                                     color = {(thisComp.state[pregunta["Pregunta"]] === undefined ? "" : thisComp.state[pregunta["Pregunta"]] === "2" ? "red" :"")}
@@ -53,7 +72,8 @@ class Preguntas extends Component{
                                 <Button
                                     onPress={() => {
                                         thisComp.setState({
-                                            [pregunta["Pregunta"]]: "3"
+                                            [pregunta["Pregunta"]]: "3",
+                                            [pregunta["Pregunta"]+'Resp']: 3
                                         })
                                     }}
                                     color = {(thisComp.state[pregunta["Pregunta"]] === undefined ? "" : thisComp.state[pregunta["Pregunta"]] === "3" ? "red" :"")}
@@ -61,7 +81,8 @@ class Preguntas extends Component{
                                 <Button
                                     onPress={() => {
                                         thisComp.setState({
-                                            [pregunta["Pregunta"]]: "4"
+                                            [pregunta["Pregunta"]]: "4",
+                                            [pregunta["Pregunta"]+'Resp']: 4
                                         })
                                     }}
                                     color = {(thisComp.state[pregunta["Pregunta"]] === undefined ? "" : thisComp.state[pregunta["Pregunta"]] === "4" ? "red" :"")}
@@ -69,7 +90,8 @@ class Preguntas extends Component{
                                 <Button
                                     onPress={() => {
                                         thisComp.setState({
-                                            [pregunta["Pregunta"]]: "5"
+                                            [pregunta["Pregunta"]]: "5",
+                                            [pregunta["Pregunta"]+'Resp']: 5
                                         })
                                     }}
                                     color = {(thisComp.state[pregunta["Pregunta"]] === undefined ? "" : thisComp.state[pregunta["Pregunta"]] === "5" ? "red" :"")}
@@ -84,8 +106,6 @@ class Preguntas extends Component{
                         )
                     })
                 }
-                <Button title={"Listo"}
-                        onPress={console.log(this.state)}/>
             </ScrollView>
         )
     }
