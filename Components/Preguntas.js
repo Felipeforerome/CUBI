@@ -31,6 +31,9 @@ class Preguntas extends Component{
             }
         })
         average = Math.round(valor/numPreguntas)
+        thisComp.props.navigation.navigate('Pagos',{
+            valorPerfil: average
+        })
     }
 
     render(){
