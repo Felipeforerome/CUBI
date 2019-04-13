@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import {StyleSheet, Text, View, Button,ScrollView} from "react-native";
-import preguntasArchivo from '../Assets/preguntas';
-import SegmentedControlTab from "react-native-segmented-control-tab";
+import {StyleSheet, Text, TextInput, View, Button,ScrollView} from "react-native";
 
 class Pago extends Component{
     constructor(props) {
@@ -13,7 +11,11 @@ class Pago extends Component{
         const valorPerfil = navigation.getParam('valorPerfil');
         return(
             <ScrollView>
-
+                <TextInput
+                    style={{height: 40, borderColor: 'gray', borderWidth: 1}}
+                    onChangeText={(text) => this.setState({text})}
+                    value={this.state.text}
+                />
             </ScrollView>
         )
     }
