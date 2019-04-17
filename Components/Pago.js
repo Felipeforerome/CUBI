@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {StyleSheet, Text, TextInput, Image, Button, View, ScrollView} from "react-native";
+import {TextInput, Image, Button, View, ScrollView} from "react-native";
 
 class Pago extends Component{
     constructor(props) {
@@ -12,18 +12,20 @@ class Pago extends Component{
             textFecha: 'Fecha Caducidad',
         };
     }
-
     calcularBingo=()=>{
         let thisComp = this
-        const { average } = this.props;
-        thisComp.props.navigation.navigate('Preguntas',{
-            valorPerfil: average
+        const average = thisComp.props.navigation.getParam('valorPerfil');
+        const estilo = thisComp.props.navigation.getParam('estilo')
+        thisComp.props.navigation.navigate('Bingo',{
+            valorPerfil: average,
+            estilo: estilo
         })
     }
 
     render(){
         const { navigation } = this.props;
         const valorPerfil = navigation.getParam('valorPerfil');
+        const styles = navigation.getParam('estilo')
         return(
             <ScrollView>
                 <View style={styles.container}>
@@ -64,15 +66,6 @@ class Pago extends Component{
     }
 }
 
-const styles = StyleSheet.create({
-    container: {
-        justifyContent: 'center',
-        alignItems: 'center',
-        marginHorizontal: '40%'
-    },
-    logo: {
-        marginHorizontal: '40%'
-    },
-});
+
 
 export default Pago

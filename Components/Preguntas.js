@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Alert, Text, View, Button,ScrollView} from "react-native";
+import {Dimensions, Alert, Text, View, Button, ScrollView, Image, StyleSheet} from "react-native";
 import preguntasArchivo from '../Assets/preguntas';
 import SegmentedControlTab from "react-native-segmented-control-tab";
 
@@ -11,11 +11,6 @@ class Preguntas extends Component{
             selectedIndex: 0,
             preguntas: preguntasArchivo
         }
-    }
-
-    contestada=()=>{
-        let thisComp = this
-        console.log(thisComp.state)
     }
 
     calcularPerfil=()=>{
@@ -33,7 +28,8 @@ class Preguntas extends Component{
         average = Math.round(valor/numPreguntas)
         if(numPreguntas>=0){
             thisComp.props.navigation.navigate('Pagos',{
-                valorPerfil: average
+                valorPerfil: average,
+                estilo: styles
             })
         }else{
             Alert.alert("Oh no!", "Hace falta que respondas "+(10-numPreguntas)+ " preguntas", )
@@ -51,12 +47,24 @@ class Preguntas extends Component{
             <ScrollView>
                 <Button title={"Listo"}
                         onPress={this.calcularPerfil}/>
+                <View style={styles.container}>
+                    <Image
+                        style = {styles.logo}
+                        source={require('../Assets/CubiM.png')}
+                    />
+                </View>
                 {
                     Object.keys(preguntas).map(function (key) {
                         var pregunta = preguntas[key]
                         return(
                             <View>
-                                <Text>{pregunta["Pregunta"]}</Text>
+                                <View
+                                    style={{
+                                        borderBottomColor: 'black',
+                                        borderBottomWidth: 1
+                                    }}
+                                />
+                                <Text style={{fontSize: 17}}>{pregunta["Pregunta"]}</Text>
                                 <Button
                                     onPress={() => {
                                         thisComp.setState({
@@ -117,5 +125,17 @@ class Preguntas extends Component{
         )
     }
 }
+
+const dimensions = Dimensions.get('window');
+const imageHeight = Math.round(dimensions.width * 9 / 16)*0.5;
+const imageWidth = dimensions.width*0.5;
+
+const styles = StyleSheet.create({
+    container: {
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    logo: { height: imageHeight, width: imageWidth },
+});
 
 export default Preguntas
