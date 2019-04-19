@@ -26,7 +26,7 @@ class Preguntas extends Component{
             }
         })
         average = Math.round(valor/numPreguntas)
-        if(numPreguntas>=0){
+        if(numPreguntas>=1){
             thisComp.props.navigation.navigate('Pagos',{
                 valorPerfil: average,
                 estilo: styles
