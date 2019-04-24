@@ -8,9 +8,21 @@ class Bingo extends Component{
         super(props);
         var db_cubi = require('../Assets/DB_Cubi');
         this.state = {
+            modalVisible: false,
+            modalInfo:null,
             lugares: db_cubi,
-            lugaresDelPerfil: null
+            lugaresDelPerfil: null,
+            fijos: false,
+            posicionesBingo: null
         };
+    }
+
+    setModalVisible(visible) {
+        this.setState({modalVisible: visible});
+    }
+
+    setModalInfo(lugar){
+        this.setState({modalInfo: lugar},()=>{console.log(this.state.modalInfo)});
     }
 
     componentDidMount(){
@@ -50,11 +62,38 @@ class Bingo extends Component{
         let thisComp = this
         const valorPerfil = thisComp.props.navigation.getParam('valorPerfil');
         const styles = thisComp.props.navigation.getParam('estilo')
-        if(this.state.lugaresDelPerfil !== null){
+        if(this.state.lugaresDelPerfil !== null && !this.state.fijos){
             let posicionesBingo = thisComp.getRandom(this.state.lugaresDelPerfil,9)
+            thisComp.setState({
+                fijos: true,
+                posicionesBingo: posicionesBingo
+            })
+            console.log(posicionesBingo)
         }
+
         return(
             <ScrollView>
+                {thisComp.state.modalInfo !==null?
+                <Modal
+                    animationType="fade"
+                    transparent={false}
+                    visible={this.state.modalVisible}
+                    onRequestClose={() => {
+                        Alert.alert('Modal has been closed.');
+                    }}>
+                    <View style={{marginTop: 22}}>
+                        <View style = {bingoStyles.square}>
+                            <Text>{thisComp.state.modalInfo['Nombre']}</Text>
+
+                            <TouchableHighlight
+                                onPress={() => {
+                                    this.setModalVisible(!this.state.modalVisible);
+                                }}>
+                                <Text>Hide Modal</Text>
+                            </TouchableHighlight>
+                        </View>
+                    </View>
+                </Modal>:<Text/>}
                 <View style={styles.container}>
                     <Image
                         style = {styles.logo}
@@ -71,6 +110,7 @@ class Bingo extends Component{
                                 <TouchableHighlight
                                     onPress={() => {
                                         this.setModalVisible(true);
+                                        this.setModalInfo(thisComp.state.posicionesBingo[0]);
                                     }}
                                 >
                                     <Image
@@ -79,48 +119,104 @@ class Bingo extends Component{
                                 </TouchableHighlight>
                             </View>
                             <View style={bingoStyles.square}>
-                                <Image
-                                    source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
-                                    style={bingoStyles.thumbnail}/>
+                                <TouchableHighlight
+                                    onPress={() => {
+                                        this.setModalVisible(true);
+                                        this.setModalInfo(thisComp.state.posicionesBingo[1]);
+                                    }}
+                                >
+                                    <Image
+                                        source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
+                                        style={bingoStyles.thumbnail}/>
+                                </TouchableHighlight>
                             </View>
                             <View style={bingoStyles.square}>
-                                <Image
-                                    source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
-                                    style={bingoStyles.thumbnail}/>
-                            </View>
-                        </View>
-                        <View style={{flex: 1, flexDirection: 'row'}}>
-                            <View style={bingoStyles.square}>
-                                <Image
-                                    source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
-                                    style={bingoStyles.thumbnail}/>
-                            </View>
-                            <View style={bingoStyles.square}>
-                                <Image
-                                    source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
-                                    style={bingoStyles.thumbnail}/>
-                            </View>
-                            <View style={bingoStyles.square}>
-                                <Image
-                                    source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
-                                    style={bingoStyles.thumbnail}/>
+                                <TouchableHighlight
+                                    onPress={() => {
+                                        this.setModalVisible(true);
+                                        this.setModalInfo(thisComp.state.posicionesBingo[2]);
+                                    }}
+                                >
+                                    <Image
+                                        source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
+                                        style={bingoStyles.thumbnail}/>
+                                </TouchableHighlight>
                             </View>
                         </View>
                         <View style={{flex: 1, flexDirection: 'row'}}>
                             <View style={bingoStyles.square}>
-                                <Image
-                                    source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
-                                    style={bingoStyles.thumbnail}/>
+                                <TouchableHighlight
+                                    onPress={() => {
+                                        this.setModalVisible(true);
+                                        this.setModalInfo(thisComp.state.posicionesBingo[3]);
+                                    }}
+                                >
+                                    <Image
+                                        source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
+                                        style={bingoStyles.thumbnail}/>
+                                </TouchableHighlight>
                             </View>
                             <View style={bingoStyles.square}>
-                                <Image
-                                    source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
-                                    style={bingoStyles.thumbnail}/>
+                                <TouchableHighlight
+                                    onPress={() => {
+                                        this.setModalVisible(true);
+                                        this.setModalInfo(thisComp.state.posicionesBingo[4]);
+                                    }}
+                                >
+                                    <Image
+                                        source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
+                                        style={bingoStyles.thumbnail}/>
+                                </TouchableHighlight>
                             </View>
                             <View style={bingoStyles.square}>
-                                <Image
-                                    source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
-                                    style={bingoStyles.thumbnail}/>
+                                <TouchableHighlight
+                                    onPress={() => {
+                                        this.setModalVisible(true);
+                                        this.setModalInfo(thisComp.state.posicionesBingo[5]);
+                                    }}
+                                >
+                                    <Image
+                                        source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
+                                        style={bingoStyles.thumbnail}/>
+                                </TouchableHighlight>
+                            </View>
+                        </View>
+                        <View style={{flex: 1, flexDirection: 'row'}}>
+                            <View style={bingoStyles.square}>
+                                <TouchableHighlight
+                                    onPress={() => {
+                                        this.setModalVisible(true);
+                                        this.setModalInfo(thisComp.state.posicionesBingo[6]);
+                                    }}
+                                >
+                                    <Image
+                                        source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
+                                        style={bingoStyles.thumbnail}/>
+                                </TouchableHighlight>
+                            </View>
+                            <View style={bingoStyles.square}>
+                                <TouchableHighlight
+                                    onPress={() => {
+                                        this.setModalVisible(true);
+                                        this.setModalInfo(thisComp.state.posicionesBingo[7]);
+                                    }}
+                                >
+                                    <Image
+                                        source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
+                                        style={bingoStyles.thumbnail}/>
+                                </TouchableHighlight>
+                            </View>
+                            <View style={bingoStyles.square}>
+                                <TouchableHighlight
+                                    onPress={() => {
+                                        this.setModalVisible(true);
+                                        this.setModalInfo(thisComp.state.posicionesBingo[8]);
+                                    }}
+                                >
+                                    <Image
+                                        source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
+                                        style={bingoStyles.thumbnail}/>
+                                </TouchableHighlight>
                             </View>
                         </View>
                     </View>

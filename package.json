@@ -13,6 +13,7 @@
     "csvtojson": "^2.0.8",
     "react": "16.8.3",
     "react-native": "0.59.2",
+    "react-native-easy-grid": "^0.2.1",
     "react-native-gesture-handler": "^1.1.0",
     "react-native-radio-buttons": "^1.0.0",
     "react-native-segmented-control-tab": "^3.4.0",
