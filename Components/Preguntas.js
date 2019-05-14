@@ -18,8 +18,15 @@ class Preguntas extends Component{
         let average = 0.00
         let numPreguntas = 0.00
         let thisComp = this
+        let acompanante = "Solo"
+        if(thisComp.state['¿Viaja sólo, en familia o en grupo?Resp']==2){
+            acompanante = "Familiar "
+        }
+        else if(thisComp.state['¿Viaja sólo, en familia o en grupo?Resp']==3){
+            acompanante = "Amigos"
+        }
         Object.keys(this.state).map(function (key) {
-            if(key.includes('Resp')){
+            if(key.includes('Resp') && !key.includes('¿Viaja sólo, en familia o en grupo?')){
                 let valorTemp = thisComp.state[key]
                 valor = valor + valorTemp
                 numPreguntas = numPreguntas + 1
@@ -29,10 +36,11 @@ class Preguntas extends Component{
         if(numPreguntas>=1){
             thisComp.props.navigation.navigate('Pagos',{
                 valorPerfil: average,
+                acompanantePerfil: acompanante,
                 estilo: styles
             })
         }else{
-            Alert.alert("Oh no!", "Hace falta que respondas "+(10-numPreguntas)+ " preguntas", )
+            Alert.alert("Oh no!", "Hace falta que respondas "+(1-numPreguntas)+ " preguntas", )
         }
     }
 
@@ -45,8 +53,6 @@ class Preguntas extends Component{
 
         return(
             <ScrollView>
-                <Button title={"Listo"}
-                        onPress={this.calcularPerfil}/>
                 <View style={styles.container}>
                     <Image
                         style = {styles.logo}
@@ -58,12 +64,6 @@ class Preguntas extends Component{
                         var pregunta = preguntas[key]
                         return(
                             <View>
-                                <View
-                                    style={{
-                                        borderBottomColor: 'black',
-                                        borderBottomWidth: 1
-                                    }}
-                                />
                                 <Text style={{fontSize: 17}}>{pregunta["Pregunta"]}</Text>
                                 <Button
                                     onPress={() => {
@@ -93,6 +93,7 @@ class Preguntas extends Component{
                                     }}
                                     color = {(thisComp.state[pregunta["Pregunta"]] === undefined ? "" : thisComp.state[pregunta["Pregunta"]] === "3" ? "red" :"")}
                                     title={pregunta["Respuesta 3"]}/>
+                                {( pregunta["Respuesta 4"] != ""?
                                 <Button
                                     onPress={() => {
                                         thisComp.setState({
@@ -101,8 +102,9 @@ class Preguntas extends Component{
                                         })
                                     }}
                                     color = {(thisComp.state[pregunta["Pregunta"]] === undefined ? "" : thisComp.state[pregunta["Pregunta"]] === "4" ? "red" :"")}
-                                    title={pregunta["Respuesta 4"]}/>
-                                <Button
+                                    title={pregunta["Respuesta 4"]}/> :null)}
+                                {( pregunta["Respuesta 5"] != ""?
+                                    <Button
                                     onPress={() => {
                                         thisComp.setState({
                                             [pregunta["Pregunta"]]: "5",
@@ -110,7 +112,7 @@ class Preguntas extends Component{
                                         })
                                     }}
                                     color = {(thisComp.state[pregunta["Pregunta"]] === undefined ? "" : thisComp.state[pregunta["Pregunta"]] === "5" ? "red" :"")}
-                                    title={pregunta["Respuesta 5"]}/>
+                                    title={pregunta["Respuesta 5"]}/>:null)}
                                 <View
                                     style={{
                                         borderBottomColor: 'black',
@@ -121,6 +123,8 @@ class Preguntas extends Component{
                         )
                     })
                 }
+                <Button title={"Listo"}
+                        onPress={this.calcularPerfil}/>
             </ScrollView>
         )
     }

@@ -28,20 +28,21 @@ class Bingo extends Component{
     componentDidMount(){
         let thisComp = this
         const valorPerfil = thisComp.props.navigation.getParam('valorPerfil');
+        const acompanantePerfil = thisComp.props.navigation.getParam('acompanantePerfil');
         const perfilReal = perfiles[valorPerfil]["Perfil"]
         let {lugares} = this.state
         let lugaresPerfil = []
         Object.keys(lugares).map(function (lugarKey) {
             let lugar = lugares[lugarKey]
+            let acompanamiento = lugar["Acompañamiento"]
             let perfil1 = lugar["Perfil 1"]
-            let perfil2 = lugar["Perfil 2"]
-            if(perfil1 === perfilReal){
+            if(perfil1 === perfilReal && acompanantePerfil === acompanamiento){
                 lugaresPerfil.push(lugar)
             }
         })
         thisComp.setState({
             lugaresDelPerfil: lugaresPerfil
-        })
+        }, ()=>{console.log(this.state.lugaresDelPerfil)})
     }
 
     getRandom=(arr, n)=> {
@@ -68,32 +69,44 @@ class Bingo extends Component{
                 fijos: true,
                 posicionesBingo: posicionesBingo
             })
-            console.log(posicionesBingo)
         }
 
         return(
             <ScrollView>
                 {thisComp.state.modalInfo !==null?
-                <Modal
-                    animationType="fade"
-                    transparent={false}
-                    visible={this.state.modalVisible}
-                    onRequestClose={() => {
-                        Alert.alert('Modal has been closed.');
-                    }}>
-                    <View style={{marginTop: 22}}>
-                        <View style = {bingoStyles.square}>
-                            <Text>{thisComp.state.modalInfo['Nombre']}</Text>
-
-                            <TouchableHighlight
-                                onPress={() => {
-                                    this.setModalVisible(!this.state.modalVisible);
-                                }}>
-                                <Text>Hide Modal</Text>
-                            </TouchableHighlight>
-                        </View>
+                    <Modal
+                        animationType="fade"
+                        transparent={false}
+                        visible={this.state.modalVisible}
+                        onRequestClose={() => {
+                            Alert.alert('Modal has been closed.');
+                        }}>
+                        <View style={{
+                            marginTop: 100,
+                            flex: 1,
+                            flexDirection: 'column',
+                            justifyContent: 'space-evenly',
+                            alignItems: 'center'
+                        }}>
+                            <Image
+                                source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monserrate_Sanctuary.JPG/550px-Monserrate_Sanctuary.JPG'}}
+                                style={bingoStyles.thumbnail}/>
+                        <Text>{thisComp.state.modalInfo['Nombre']}</Text>
+                        <Text>Hola</Text>
+                        <TouchableHighlight
+                            onPress={() => {
+                                this.setModalVisible(!this.state.modalVisible);
+                            }}>
+                            <Text>Hide Modal</Text>
+                        </TouchableHighlight>
                     </View>
-                </Modal>:<Text/>}
+                    <View style={{
+                        flex: 1,
+                        flexDirection: 'column',
+                        justifyContent: 'space-between',
+                    }}>
+                    </View>
+                    </Modal>:<Text/>}
                 <View style={styles.container}>
                     <Image
                         style = {styles.logo}

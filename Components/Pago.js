@@ -15,9 +15,11 @@ class Pago extends Component{
     calcularBingo=()=>{
         let thisComp = this
         const average = thisComp.props.navigation.getParam('valorPerfil');
+        const acompanante = thisComp.props.navigation.getParam('acompanantePerfil');
         const estilo = thisComp.props.navigation.getParam('estilo')
         thisComp.props.navigation.navigate('Bingo',{
             valorPerfil: average,
+            acompanantePerfil: acompanante,
             estilo: estilo
         })
     }

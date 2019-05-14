@@ -10,9 +10,10 @@
    "Contacto": "Fabián Ortiz",
    "Correo electrónico": "secretario.academico@academiahistoria.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "AcademiaColombianadeHistoria"
  },
  {
    "Nombre": "Agroparque Los Soches",
@@ -25,6 +26,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -40,6 +42,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -55,8 +58,9 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
-   "Perfil 2": "Ocio",
+   "Perfil 2": "  ",
    "Foto": ""
  },
  {
@@ -70,6 +74,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -85,6 +90,7 @@
    "Contacto": "Atención al ciudadano: Emilse Cristiano",
    "Correo electrónico": "notificaciones.judiciales@gobiernobogota.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -100,6 +106,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "No se permite tomar fotografías, uno de los espacios más deslumbrantes del arte colonial es el presbiterio.",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -115,9 +122,10 @@
    "Contacto": "Yury Hernández (recepción)",
    "Correo electrónico": "contactoarchivodebogota@alcaldiabogota.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Archivo"
  },
  {
    "Nombre": "Archivo General de la Nación",
@@ -130,6 +138,7 @@
    "Contacto": "Gina Sánchez (Departamento de asistencia técnica)",
    "Correo electrónico": "contacto@archivogeneral.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -145,6 +154,7 @@
    "Contacto": "Gina Zanella Adarme - Encargada",
    "Correo electrónico": "historicopuj@javeriana.edu.co",
    "Observaciones": "El Archivo Histórico Javeriano, cuenta con Fondos y Colecciones para consulta, sin embargo las personas interesadas en visitarlo deben programar su visita y temáticas de interés para coordinar la logística, esto debido a que no es un espacio de flujo masivo de personas como lo son otras instituciones tales como Museos que cuentan con la infraestructura adecuada para esto.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -160,9 +170,10 @@
    "Contacto": "William Ardila ( Representante Legal)",
    "Correo electrónico": "Presidencia@pulgasusaquen.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Pulgas"
  },
  {
    "Nombre": "Atlantis Plaza Centro Comercial",
@@ -175,9 +186,10 @@
    "Contacto": "Fernando Nuñez",
    "Correo electrónico": "secgerencia@atlantisplaza.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
-   "Foto": ""
+   "Foto": "Atlantis"
  },
  {
    "Nombre": "Auditorio  - Biblioteca Fabio Lozano - Universidad Jorge Tadeo Lozano",
@@ -190,6 +202,7 @@
    "Contacto": "Vilma Gil - Subdirectora",
    "Correo electrónico": "isabel.vernaza@utadeo.edu.co; vilma.gil@utadeo.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -205,6 +218,7 @@
    "Contacto": "María Belén Sáez Ibarra  - Directora",
    "Correo electrónico": "dicultura@unal.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -220,6 +234,7 @@
    "Contacto": "Luz Stella Rey Sabogal (Coordinadora de Educación Ambiental)",
    "Correo electrónico": "Luz.rey@ambientebogota.gov.co",
    "Observaciones": "Esta Aula Ambiental se encuentra inmersa en un bosque Alto Andino por lo que sus visitantes tienen la oportunidad de reconocer la diversidad de flora y fauna presente en este tipo de ecosistemas. Su énfasis ambiental hace referencia a la biodiversidad, a través de ella, se abordan temas como los Ecosistemas Estratégicos de Bogotá, análisis de diferentes comunidades y especies vegetales, importancia de conservar y proteger los recursos naturales, entre otros. Así mismo, se generan reflexiones sobre la historia de construcción social del territorio y se puede observar, desde enormes miradores, el paisaje de la ciudad.\n\nEn su territorio nacen siete quebradas: Seca, Chiguaza, Bolonia, Verejones, La olla del Ramo, Santa Librada y Yomasa, que desembocan en el río Tunjuelo, uno de los tres principales afluentes del río Bogotá. Los cerros de Guacamayas, Juan Rey y cuchilla del Gavilán, presentan gran variedad de plantas, como: musgos, hierbas, helechos, orquídeas, arbustos y árboles que a pesar de su degradación son refugio de especies de fauna nativa. El reconocido Parque Entre Nubes es una reserva natural y es el punto de atención y de tranquilidad que atrae a varios turistas y ciudadanos.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -235,6 +250,7 @@
    "Contacto": "Luz Stella Rey Sabogal (Coordinadora de Educación Ambiental)",
    "Correo electrónico": "Luz.rey@ambientebogota.gov.co",
    "Observaciones": "Por su ubicación y características particulares el énfasis de esta Aula Ambiental hace referencia al tema de los cerros orientales. A partir de recorridos temáticos y talleres pedagógicos se aborda la historia de conformación del barrio y la cantera, la importancia de los cerros, el reconocimiento y apropiación del territorio, el conocimiento y preservación de la flora y la fauna propia de este ecosistema.\n\nEl Aula Ambiental cuenta con un túnel subterráneo \"galería de drenaje\" que atraviesa un segmento del cerro donde se puede conocer las diferentes tipos de suelos, las conformaciones geológicas y los acuíferos subterráneos allí presentes. Cuenta con excelentes miradores que permiten observar gran parte de la ciudad.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -250,6 +266,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -265,6 +282,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -280,6 +298,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -295,6 +314,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -310,6 +330,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -325,9 +346,10 @@
    "Contacto": "Adriana Bastias - Secretaria",
    "Correo electrónico": "nslourdes@yahoo.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Lourdes"
  },
  {
    "Nombre": "Básilica Menor del Voto Nacional",
@@ -340,6 +362,7 @@
    "Contacto": "Edgar Yazo",
    "Correo electrónico": "psagradocorazondejesus@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -355,9 +378,10 @@
    "Contacto": "Tatiana Prieto Rojas - Secretaria",
    "Correo electrónico": "secretaria@santuariomonserrate.org, contacto@santuariomonserrate.org",
    "Observaciones": "Se ubica en el Santuario la Ermita de Nuestra Señora de la Cruz de Monserrate",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Monerrate"
  },
  {
    "Nombre": "Biblioteca del Congreso - Sede Luis Carlos Galán Sarmiento",
@@ -370,6 +394,7 @@
    "Contacto": "Karolina Ruíz",
    "Correo electrónico": "biblioteca@senado.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -385,6 +410,7 @@
    "Contacto": "Camilo Zuleta - Asistente administrativo",
    "Correo electrónico": "direccion_tt@biblored.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -400,9 +426,10 @@
    "Contacto": "Erika Alexandra Zambrano",
    "Correo electrónico": "w.biblio@bamred.com.co",
    "Observaciones": "La correspondencia dirigida a la Biblioteca Luis Ángel Arango será recibida en esta dirección KR 5 # 11 - 68.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Arango"
  },
  {
    "Nombre": "Biblioteca Nacional de Colombia",
@@ -415,9 +442,10 @@
    "Contacto": "Patricia Rodríguez (coordinadora)",
    "Correo electrónico": "Proodriguez@bibliotacanacional.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "BibilotecaNacionalBogota"
  },
  {
    "Nombre": "Biblioteca Pública Gabriel García Márquez ",
@@ -430,6 +458,7 @@
    "Contacto": "Yuri Tavera - Secretaria",
    "Correo electrónico": "direccion_tn@biblored.gov.co",
    "Observaciones": "El horario de los servicios afiliados y préstamo de materiales bibliográfico finaliza un cuarto de hora antes del cierre de la biblioteca.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -445,9 +474,10 @@
    "Contacto": "Tatiana López",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "BibliotecaVirgilioBarco"
  },
  {
    "Nombre": "Calle 10 entre Carrera 3 y 9",
@@ -460,6 +490,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -475,6 +506,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -490,6 +522,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -505,6 +538,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Vía Peatonal",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -520,6 +554,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Vía Peatonal",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -535,6 +570,7 @@
    "Contacto": "Ana María Uribe - Directora",
    "Correo electrónico": "fundacionemilio@gimnasiomoderno.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -550,9 +586,10 @@
    "Contacto": "Monseñor Álvaro Tiberio Vidales Bedoya",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Sagrario"
  },
  {
    "Nombre": "Capilla La Bordadita",
@@ -565,6 +602,7 @@
    "Contacto": "Rosa Parra",
    "Correo electrónico": "rosa.parra@urosario.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -580,6 +618,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -595,9 +634,10 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Monica"
  },
  {
    "Nombre": "Capitolio Nacional  - Sede del Congreso de la República",
@@ -610,6 +650,7 @@
    "Contacto": "Ligia Gómez",
    "Correo electrónico": "atencionciudadanacongreso@senado.gov.co",
    "Observaciones": "Unidad de Correspondencia Senado de la República: Carrera 7 No. 8-68 Primer piso. Unidad de Atención Ciudadana del Congreso: Calle 11 No. 5-60 Tercer Nivel",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -625,6 +666,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Vía Peatonal",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -640,6 +682,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Casa del Doctor Eduardo Mendoza Varela, Calle de San Miguel del Príncipe",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -655,6 +698,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -670,6 +714,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -685,6 +730,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Casa de Rosa Florido, Calle de la Rosa",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -700,6 +746,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -715,6 +762,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -730,6 +778,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -745,6 +794,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -760,6 +810,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -775,6 +826,7 @@
    "Contacto": "Carolina Sánchez - Secretaria",
    "Correo electrónico": "Socialdiocesisdefontibon@gmail.com; contactenos@diocesisdefontibon.com; secretaria@diocesisdefontibon.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -790,6 +842,7 @@
    "Contacto": "Monseñor Álvaro Tiberio Vidales Bedoya",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -805,6 +858,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Cambio de nomenclatura, original (CL 13), Casa de José Caicedo Rojas, en la que sesionó la Academia Colombiana, ubicada en la calle de la conquista",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -820,6 +874,7 @@
    "Contacto": "NR",
    "Correo electrónico": "mercadeo@haciendasantabarbara.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -835,9 +890,10 @@
    "Contacto": "Angélica Estupiñan ( Referente de Calidad)",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
-   "Foto": ""
+   "Foto": "Alcau"
  },
  {
    "Nombre": "Casa de La Cultura Julio E. Lleras",
@@ -850,6 +906,7 @@
    "Contacto": "NR ",
    "Correo electrónico": "NR ",
    "Observaciones": "NR",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -865,6 +922,7 @@
    "Contacto": "Atención al ciudadano: Alfonso Uribe",
    "Correo electrónico": "atencionalciudadano@fuga.gov.co",
    "Observaciones": "En acondicionamiento para accesibilidad personas en condiciones de discapacidad",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -880,9 +938,10 @@
    "Contacto": "Karen Rincón",
    "Correo electrónico": "exposiciones@banrep.gov.co",
    "Observaciones": "Visitas para grupos escolares y universitarios: reservar mínimo con quince (15) días de anticipación \núnicamente en el teléfono 3431221 - 34311 11 Ext. 1997  o en el correo electrónico servieducativosblaa@banrep.gov.co",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Casadelamoneda"
  },
  {
    "Nombre": "Casa de La Opera (Actual sede de la Dirección de Comunicaciones del Ministerio de Cultura)",
@@ -895,9 +954,10 @@
    "Contacto": "Argemiro Cortez: Director de comunicaciones, Martha Gonzales : Secretaria de dirección. ",
    "Correo electrónico": "dircomunicaciones@mincultura.gov.co",
    "Observaciones": "Solo funciona como oficina",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Opera"
  },
  {
    "Nombre": "Casa de Los Comuneros (Actual sede de la Secretaria, Recreación y Deporte)",
@@ -910,6 +970,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -925,9 +986,10 @@
    "Contacto": "NR",
    "Correo electrónico": "casadepoesiasilva@casadepoesiasilva.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Poesia"
  },
  {
    "Nombre": "Casa del Buen Ciudadano Francisco de Paula Pérez",
@@ -940,6 +1002,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "NR",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -955,6 +1018,7 @@
    "Contacto": "Monseñor Juan Miguel Huertas.",
    "Correo electrónico": "juanmiguelhuertase@hotmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -970,6 +1034,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Se encuentra en remodelación",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -985,6 +1050,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -1000,6 +1066,7 @@
    "Contacto": "María Fernanda Contreras - Administrativa",
    "Correo electrónico": "casaculturafontibon@hotmail.com",
    "Observaciones": "Es un espacio de encuentro de articulación de procesos sociales y culturales que posibilitan la inclusión de nuestra población con el fin de diseñar las políticas, posibilitar los derechos, dar acceso al arte, desarrollar actividades de formación y capacitación en las diferentes áreas artísticas y culturales, apoyando la creatividad para fomentar el intercambio cultural.",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -1015,6 +1082,7 @@
    "Contacto": "Edelmira Massa - Representante Legal",
    "Correo electrónico": "elpalenquededeliazapata@gmail.com",
    "Observaciones": "Ubicada en la calle de la toma de agua",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1030,6 +1098,7 @@
    "Contacto": "NR",
    "Correo electrónico": "informacion@fundacionrafaelpombo.org",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1045,6 +1114,7 @@
    "Contacto": "Maritza Becerra - Auxiliar administrativa",
    "Correo electrónico": "casagomezcampuzano@banrep.gov.co",
    "Observaciones": "Declarada Bien de Interés Cultural del Distrito mediante el Decreto 606 del 26 de julio de 2001",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -1060,6 +1130,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1075,6 +1146,7 @@
    "Contacto": "Iván Felipe Zuares: Director",
    "Correo electrónico": "museocaldasbogota@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -1090,6 +1162,7 @@
    "Contacto": "Alejandro Burgos Bernal - Jefe División de Museos de la Universidad Nacional de Colombia ",
    "Correo electrónico": "casagaitan@unal.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1105,9 +1178,10 @@
    "Contacto": "NR",
    "Correo electrónico": "museoindependencia@mincultura.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Quintabolivar"
  },
  {
    "Nombre": "Casa Museo Uribe Uribe universidad Libre ",
@@ -1120,6 +1194,7 @@
    "Contacto": "Javier A. Corredor: Coordinador del museo.",
    "Correo electrónico": "javier.corredor@unilibre.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1135,6 +1210,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1150,6 +1226,7 @@
    "Contacto": "Efraín Riaño, Director de la unidad de artes y colecciones, Ángela Pérez Mejía, Gerencia General.",
    "Correo electrónico": "prensablaa@banrep.gov.co   Felicitaciones, quejas y denuncias: atencionalciudadano@banrep.gov.co                                            ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1165,6 +1242,7 @@
    "Contacto": "NR ",
    "Correo electrónico": "NR ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1180,6 +1258,7 @@
    "Contacto": "Mónica Gómez, directora. ",
    "Correo electrónico": "s.bolivariana@outlook.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1195,6 +1274,7 @@
    "Contacto": "Cristián Olivera",
    "Correo electrónico": "lasociedadcr@gmail.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1210,6 +1290,7 @@
    "Contacto": "Carlos Forero - Librero y encargado de atención al ciudadano",
    "Correo electrónico": "contactenos@icanh.gov.co",
    "Observaciones": "Funcionan oficinas",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1225,6 +1306,7 @@
    "Contacto": "Alejandra Quintero, Recepción.",
    "Correo electrónico": "idpc@idpc.gov.co; info@idpc.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1240,6 +1322,7 @@
    "Contacto": "Judy Anzola",
    "Correo electrónico": "info@escuelagalan.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1255,6 +1338,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Actualmente la administración está a cargo de la comunidad Agustinos Recoletos, no se permite el ingreso a la casa ya que es un lugar de acogida exclusivo de la comunidad.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1270,9 +1354,10 @@
    "Contacto": "Claudia Díaz",
    "Correo electrónico": "castillodelmonoosorio@hotmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Mono"
  },
  {
    "Nombre": "Centro Comercial Andino",
@@ -1285,9 +1370,10 @@
    "Contacto": "Rosalba Malaver - Operadora",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
-   "Foto": ""
+   "Foto": "Andino"
  },
  {
    "Nombre": "Centro Comercial Bulevar",
@@ -1300,9 +1386,10 @@
    "Contacto": "Juliana Ángel ( coordinadora de mercadeo)",
    "Correo electrónico": "Coordinadooramercadeo@bulevar.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
-   "Foto": ""
+   "Foto": "Bulevar"
  },
  {
    "Nombre": "Centro Comercial Centro Mayor",
@@ -1315,6 +1402,7 @@
    "Contacto": "Adriana Muñoz - Secretaria",
    "Correo electrónico": "servicioalcliente@centromayorcc.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -1330,9 +1418,10 @@
    "Contacto": "Cesar Rodríguez ( Director de Operaciones)",
    "Correo electrónico": "Cesar.rodriguez@centrocomercialsantafe.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Santafe"
  },
  {
    "Nombre": "Centro Cultural Gabriel García Márquez",
@@ -1345,9 +1434,10 @@
    "Contacto": "Lizeth Gómez - Asistente del centro cultural",
    "Correo electrónico": "info@fce.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "GabrielGarciaMArquez"
  },
  {
    "Nombre": "Centro Cultural y Biblioteca Pública Julio Mario Santodomingo",
@@ -1360,6 +1450,7 @@
    "Contacto": "Alejandro Toro ( Director)",
    "Correo electrónico": "Direccion-jm@biblored.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -1375,9 +1466,10 @@
    "Contacto": "Luis Carlos Moreno",
    "Correo electrónico": "lmoreno@coldeportes.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Altor"
  },
  {
    "Nombre": "Centro de Documentación - Instituto Distrital de Patrimonio Cultural",
@@ -1390,6 +1482,7 @@
    "Contacto": "Liliana Galindo - Equipo de transparencia y atención al cliente",
    "Correo electrónico": "centrodedocumentacion@idpc.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -1405,9 +1498,10 @@
    "Contacto": "Yesica Rodríguez - VoluntariaPbx",
    "Correo electrónico": "info@maloka.org",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Maloka"
  },
  {
    "Nombre": "Centro Internacional",
@@ -1420,6 +1514,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -1435,6 +1530,7 @@
    "Contacto": "Cristina Unda ( Administradora)",
    "Correo electrónico": "Administracion@edifcl.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -1450,6 +1546,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1465,9 +1562,10 @@
    "Contacto": "NR ",
    "Correo electrónico": "NR ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Guadalupe"
  },
  {
    "Nombre": "Cerro Monserrate",
@@ -1480,6 +1578,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -1495,6 +1594,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -1510,6 +1610,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -1525,6 +1626,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -1540,9 +1642,10 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Ciclo"
  },
  {
    "Nombre": "Ciudad Salitre",
@@ -1555,6 +1658,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1570,9 +1674,10 @@
    "Contacto": "Alejandro Rueda",
    "Correo electrónico": "azastoque@artesaniasdecolombia.com",
    "Observaciones": "El claustro actualmente se encuentra en remodelación",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
-   "Perfil 2": "Cultural",
-   "Foto": ""
+   "Perfil 2": "Negocio",
+   "Foto": "Claustro"
  },
  {
    "Nombre": "Claustro de San Agustín UNAL",
@@ -1585,6 +1690,7 @@
    "Contacto": "Alejandro Burgos Bernal - Jefe División de Museos de la Universidad Nacional de Colombia (sede Bogotá).",
    "Correo electrónico": "museos@unal.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -1600,6 +1706,7 @@
    "Contacto": "Adinael Castellanos - Recepción",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -1615,6 +1722,7 @@
    "Contacto": "Diana Garzón - Asistente de gerencia",
    "Correo electrónico": "gerencia@clubdelcomerciobogota.com",
    "Observaciones": "La persona que no pertenece al club solo puede ingresar cuando es invitado por algún asociado",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -1630,6 +1738,7 @@
    "Contacto": "Wilmar Castro - Auxiliar Administrativo",
    "Correo electrónico": "educacionmuseos@banrep.gov.co; exposiciones@banrep.gov.co",
    "Observaciones": "La colección por encontrarse dentro de la sala de conciertos presta los servicios de la sala de conciertos de la biblioteca Luis Ángel Arango",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1645,6 +1754,7 @@
    "Contacto": "Alejandro Burgos Bernal - Jefe División de Museos de la Universidad Nacional de Colombia (sede Bogotá).",
    "Correo electrónico": "museos@unal.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1660,6 +1770,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "NA",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1675,6 +1786,7 @@
    "Contacto": "Alejandro Burgos Bernal - Jefe División de Museos de la Universidad Nacional de Colombia (sede Bogotá).",
    "Correo electrónico": "museos@unal.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -1690,6 +1802,7 @@
    "Contacto": "Alejandro Burgos Bernal - Jefe División de Museos de la Universidad Nacional de Colombia ",
    "Correo electrónico": "museos@unal.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -1705,9 +1818,10 @@
    "Contacto": "Yessica Peñuela",
    "Correo electrónico": "yessica.penuela@idrd.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Acua"
  },
  {
    "Nombre": "Corporación Casa de la Cultura Cacique Hyntiba",
@@ -1720,6 +1834,7 @@
    "Contacto": "María Fernanda Contreras - Asistente Administrativa",
    "Correo electrónico": "casaculturalfontibon@hotmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -1735,6 +1850,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "NA",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1750,9 +1866,10 @@
    "Contacto": "Walter valbuena ( Director general del parque)",
    "Correo electrónico": "Waltervalbuena@divercity.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
-   "Foto": ""
+   "Foto": "Divercity"
  },
  {
    "Nombre": "Edificio Academia Colombiana de la Lengua",
@@ -1765,6 +1882,7 @@
    "Contacto": "Jaime Posada ( Director)",
    "Correo electrónico": "Jaime-posada2004@yahoo.es",
    "Observaciones": "Horario de funcionarios de Lunes a Viernes de 8:00 A.M. a 5:00 p.M.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -1780,6 +1898,7 @@
    "Contacto": "Santiago Niño Morales ( Decano) / yury Torres (Asistente)",
    "Correo electrónico": "Santiagoninomorales@gmail.com / Distritalyury@gmail.com",
    "Observaciones": "Servicio de alimentación suministrada por el distrito a personas de nivel 1 y 2 ",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -1795,9 +1914,10 @@
    "Contacto": "Clara Lucia Saavedra - Asistente",
    "Correo electrónico": "clcabas@superfinanciera.gov.co",
    "Observaciones": "Para ingreso se debe hacer registro",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Superi"
  },
  {
    "Nombre": "Edificio de Posgrados de la Universidad de Bogotá Jorge Tadeo Lozano",
@@ -1810,6 +1930,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -1825,9 +1946,10 @@
    "Contacto": "Guillermo Matallana - Funcionario Correspondencia",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Concejo"
  },
  {
    "Nombre": "Edificio del Gun Club",
@@ -1840,6 +1962,7 @@
    "Contacto": "Mauricio Romero (Administrador)",
    "Correo electrónico": "Mauricio.romero@fcm.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -1855,9 +1978,10 @@
    "Contacto": "Cristian Quintero (Botones)",
    "Correo electrónico": "Botoneshotel@sht.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Tequendama"
  },
  {
    "Nombre": "Edificio del Jockey Club",
@@ -1870,6 +1994,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -1885,9 +2010,10 @@
    "Contacto": "Mauricio Téllez( Jefe de comunicaciones)",
    "Correo electrónico": "Mauriciotellez@ecopetrol.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "",
-   "Foto": ""
+   "Foto": "Ecopetrol"
  },
  {
    "Nombre": "Edificio El Tiempo Citytv",
@@ -1900,6 +2026,7 @@
    "Contacto": "Edwin Rincón - Correspondencia",
    "Correo electrónico": "NA",
    "Observaciones": "Alberga actualmente las oficinas de City TV",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -1915,6 +2042,7 @@
    "Contacto": "Alejandro Torres - Gerente - Jhon Rojas - Asistente",
    "Correo electrónico": "atorres@ipes.gov.co - jerojas@ipes.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -1930,6 +2058,7 @@
    "Contacto": "José Niño (sargento)",
    "Correo electrónico": "atencionciudadanoejc@ejercito.mil.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "",
    "Foto": ""
@@ -1945,9 +2074,10 @@
    "Contacto": "NR",
    "Correo electrónico": "atencionalcliente@mingacienda.gov.co",
    "Observaciones": "Para el ingreso se debe especificar la dependencia a la cual se va a ingresar y estar autorizados",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Hacienda"
  },
  {
    "Nombre": "Edificio Monserrate",
@@ -1960,6 +2090,7 @@
    "Contacto": "Cristian Iguaran - Administrador",
    "Correo electrónico": "nicoluzltva@yahoo.es",
    "Observaciones": "En el edificio funcionan diferentes establecimientos comerciales.",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -1975,9 +2106,10 @@
    "Contacto": "Johanna Jiménez ( Funcionaria)",
    "Correo electrónico": "pitquiosco@idt.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Luz"
  },
  {
    "Nombre": "Edificio Samper Brush",
@@ -1990,9 +2122,10 @@
    "Contacto": "Omaira Bedoya ( Administradora)",
    "Correo electrónico": "Edificiosamperbrush@hotmail.com",
    "Observaciones": "Funcionan oficinas",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "",
-   "Foto": ""
+   "Foto": "Samper"
  },
  {
    "Nombre": "Edificio Sede de la Dirección de Patrimonio, Artes, Etnografía y Fomento Regional",
@@ -2005,6 +2138,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "La dirección CL 9 # 8 - 31 se encuentra deshabiliatada, el ingreso se realiza por la KR 8 # 8 -55",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2020,6 +2154,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2035,6 +2170,7 @@
    "Contacto": "Ángela Rincón - Coordinadora comunicaciones",
    "Correo electrónico": "NR",
    "Observaciones": "Solo ingresan los socios e ingenieros para realizar tramites, para otras personas el ingreso es con previa autorización.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "",
    "Foto": ""
@@ -2050,6 +2186,7 @@
    "Contacto": "Cristian Ballesteros ( Director de proyecto",
    "Correo electrónico": "Directorcolpatria@calliers.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -2065,6 +2202,7 @@
    "Contacto": "Carlos Galvis ( Administrador)",
    "Correo electrónico": "Edificowordservice@hotmail.com",
    "Observaciones": "Oficinas publicas y privadas",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -2080,9 +2218,10 @@
    "Contacto": "Instituto de Desarrollo Urbano",
    "Correo electrónico": "NA",
    "Observaciones": "Entidad responsavle Instituto Desarrollo Urbano (Según decreto 456 de 2013)",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Aguas"
  },
  {
    "Nombre": "El Retiro Centro Comercial",
@@ -2095,6 +2234,7 @@
    "Contacto": "Ruth Granador - Auxiliar servicio al cliente",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -2110,6 +2250,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2125,6 +2266,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Alejandro Otero, Inauguración: 24 de julio de 1975 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2140,6 +2282,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2155,6 +2298,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "NR",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2170,6 +2314,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2185,6 +2330,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Eduardo Ramírez Villamizar, Inauguración: 1985 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2200,6 +2346,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "La escultura se puede apreciar en la plaza de toros la santa María ",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2215,6 +2362,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Fernando Botero, Inauguración: 03 de noviembre de 2000 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2230,6 +2378,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Feliza Bursztyn, Inauguración: 22 de mayo de 1971 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2245,6 +2394,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2260,6 +2410,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Auto: Roberto Henao Buriticá (obra atribuida), Inauguración: 19 de julio de 1926 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2275,6 +2426,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2290,6 +2442,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2305,6 +2458,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2320,9 +2474,10 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Edgar Negret, Inauguración: 19 de junio de 2000 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Mariposa"
  },
  {
    "Nombre": "Escultura Minerva",
@@ -2335,6 +2490,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Vico Consorti, Inauguración: Abril de 1958 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2350,6 +2506,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2365,6 +2522,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Eduardo Ramírez Villamizar, Inauguración: 17 de abril de 1980 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2380,6 +2538,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "La escultura se puede apreciar en la plaza de toros la santa María ",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2395,6 +2554,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2410,6 +2570,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Enrique Grau Araújo, Inauguración: 18 de diciembre de 2000 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2425,6 +2586,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2440,6 +2602,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Gustavo Arcila Uribe, Inauguración: 14 de julio de 1946 ",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2455,6 +2618,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2470,9 +2634,10 @@
    "Contacto": "Jefferson Martínez (gestor administrativo Turistren)",
    "Correo electrónico": "servivioalcliente@turistren.gov.co",
    "Observaciones": "La edificación como tal es administrada por contrato entre varias entidades, sobresalen en ella en tema turístico Turistren, la información de validación de información se realiza con esta entidad",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Sabana"
  },
  {
    "Nombre": "Estación del Ferrocarril de Bosa",
@@ -2485,6 +2650,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "NR",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -2500,6 +2666,7 @@
    "Contacto": "Tatiana Mayorga ( Asistente Administrativo)",
    "Correo electrónico": "Tmayorga@turistren.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -2515,6 +2682,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -2530,9 +2698,10 @@
    "Contacto": "Rhin Chinchilla",
    "Correo electrónico": "estadioelcampin@idrd.gov.co",
    "Observaciones": "Para reserva de los recorridos guiados escribir al correo estadioelcampin@idrd.gov.co",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Campin"
  },
  {
    "Nombre": "Estatua  George Washington",
@@ -2545,6 +2714,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Luis Pinto Maldonado, Inauguración: 11 de mayo de 1963 ",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2560,6 +2730,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Charles Raúl Verlet, Inauguración: 21 de julio de 1912 BICD - Resolución 0035 de 2006\nBICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2575,6 +2746,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": " BICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2590,6 +2762,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Desconocido, Inauguración: 16 de septiembre de 1938 ",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2605,6 +2778,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Charles Raúl Verlet, Inauguración: 20 de julio de 1960 \n\nBICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2620,6 +2794,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Pietro Costa, Inauguración: 06 de mayo de 1878 escultura:\nBICD - Resolución 0035 de 2006\nBICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2635,6 +2810,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Charles Raúl Verlet, Inauguración: 06 de agosto de 1910 BICD - Resolución 0035 de 2006\nBICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2650,6 +2826,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Juan de Ávalos, Inauguración: 6 de agosto de1960 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2665,6 +2842,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Reproducción de la Estatua ecuestre de Joseph Louis Daumas, Inauguración: 20 de mayo de 1941 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2680,6 +2858,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Diónesio Cortés, Inauguración: 29 de julio de 1910 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2695,6 +2874,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Charles Raúl Verlet, Inauguración: 01 de enero de 1920 BICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2710,6 +2890,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Francisco Antonio Cano, Inauguración: 5 de agosto de 1922 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2725,6 +2906,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Fundición Bruno Campagniola, Inauguración: 28 de junio de 1968 ",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2740,6 +2922,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Charles Raúl Verlet, Inauguración: 17 de julio de 1914 BICD - Resolución 0035 de 2006\nBICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2755,6 +2938,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Fernando Montañez, Inauguración: 15 de octubre de 1983 ",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2770,6 +2954,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: G. Cellini (firma que se encuentra en el costado inferior derecho del monumento, Inauguración: 17 de junio de 1934 ",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2785,6 +2970,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Pietro Tenerani, Inauguración: 20 de julio de 1846 BICNAL - Resolución 0395 de 2006\n",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2800,6 +2986,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Modelada por Ferdinand Von Miller y vaciada en bronce por La Real Fundición de Munich BICD - Resolución 0035 de 2006\nBICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2815,6 +3002,7 @@
    "Contacto": "Blanca Giral ",
    "Correo electrónico": "Bgiral@ucentral.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -2830,6 +3018,7 @@
    "Contacto": "NA",
    "Correo electrónico": "info@unaga.org.co",
    "Observaciones": "UNAGA: dirección 93bis#19-50",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -2845,6 +3034,7 @@
    "Contacto": "Marcela Rangel Rico - Coordinadora Comercial",
    "Correo electrónico": "info@corferia.com; lrangel@forferias.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Negocio",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -2860,9 +3050,10 @@
    "Contacto": "Yuli Fernanda Jaramillo ",
    "Correo electrónico": "expoartesanias@corferias.com",
    "Observaciones": "Artesanías de Colombia: cll74#11, 5550325-5550326 Lunes a Viernes de 8:00A.M.-5:00P.M.",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Negocio",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Expoa"
  },
  {
    "Nombre": "Feria Internacional de Bogotá  Exposición Industrial",
@@ -2875,6 +3066,7 @@
    "Contacto": "Esteban Rodríguez - Coordinador Comercial ",
    "Correo electrónico": "info@corferia.com, wrodriguez@corferias.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Negocio",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -2890,6 +3082,7 @@
    "Contacto": "Deisy Ángel - Coordinadora Comercial ",
    "Correo electrónico": "info@corferias.com, dangel@corferias.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Negocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -2905,6 +3098,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Prohibido el ingreso a menores de edad, la Feria va dirigida a empresarios,  no se realizan ventas.  ACICAM (asociación colombiana de industriales de calzado ) crr4a#26a-71",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Negocio",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -2920,6 +3114,7 @@
    "Contacto": "NA",
    "Correo electrónico": "bogovision@bogocine.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2935,6 +3130,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2950,6 +3146,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -2965,6 +3162,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -2980,6 +3178,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -2995,9 +3194,10 @@
    "Contacto": "Giovanna Chamorro Ramírez - Gerente de Música",
    "Correo electrónico": "contactenos@idartes.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Rock"
  },
  {
    "Nombre": "Fiesta de Los Reyes Magos",
@@ -3010,6 +3210,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3025,6 +3226,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3040,6 +3242,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3055,6 +3258,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Luis Alberto Acuña ",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3070,6 +3274,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Anónimo BICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3085,6 +3290,7 @@
    "Contacto": "Azucena Forero - Gerente Administrativa",
    "Correo electrónico": "administracion@hayuelos.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -3100,6 +3306,7 @@
    "Contacto": "NA",
    "Correo electrónico": "reservations.BIH@fourseasons.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -3115,6 +3322,7 @@
    "Contacto": "Grupo de Coordinación",
    "Correo electrónico": "sales@hotelopera.com.co",
    "Observaciones": "Ubicado en la Calle del coliseo",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -3130,6 +3338,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3145,6 +3354,7 @@
    "Contacto": "Iván Gómez - 3214305192",
    "Correo electrónico": "humedales@ambientebogota.gov.co",
    "Observaciones": "Dado que en otros humedales no han permitido el ingreso y/o no se ubica al administrador se realiza solicitud de información a través de correo Electrónico. 04/09/2017",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3160,6 +3370,7 @@
    "Contacto": "CAROLINA SALGADO RAMIREZ ADMINISTRADORA HUMEDAL CAPELLANIA",
    "Correo electrónico": "carolina.salgado@ambientebogota.go.co/carolinasalgado07@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3175,9 +3386,10 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "NR",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Vieja"
  },
  {
    "Nombre": "Humedal Tibanica",
@@ -3190,6 +3402,7 @@
    "Contacto": "Angélica Rico - Administradora",
    "Correo electrónico": "ivan.marin@ambientebogota.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3205,6 +3418,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3220,9 +3434,10 @@
    "Contacto": "Hermana Ivon Orjuela - Hermana Gloria Bastidas",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Mor"
  },
  {
    "Nombre": "Iglesia de La Capuchina",
@@ -3235,6 +3450,7 @@
    "Contacto": "Stella Castro - Secretaria",
    "Correo electrónico": "psanvictorino@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3250,9 +3466,10 @@
    "Contacto": "Rosa Chalpatar - Seminarista Guillermo Valencia",
    "Correo electrónico": "rosacheca6405@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Concepcion"
  },
  {
    "Nombre": "Iglesia de la Medalla Milagrosa",
@@ -3265,6 +3482,7 @@
    "Contacto": "Fabio Enrique Tellez Amaya",
    "Correo electrónico": "correo@parroquialamedallamilagrosa.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3280,9 +3498,10 @@
    "Contacto": "Sacristán Duvan Palacios - Karen Beltrán Emisora Mariana",
    "Correo electrónico": "agustinosvocaciones@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Agustin"
  },
  {
    "Nombre": "Iglesia de San Alfonso Maria de Ligorio",
@@ -3295,6 +3514,7 @@
    "Contacto": "Padre Cristián Bueno Fonseca",
    "Correo electrónico": "psanalfonsobogota@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3310,6 +3530,7 @@
    "Contacto": "Dora Patricia Espinosa",
    "Correo electrónico": "sancristobal_p@hotmail.com; psancristobal@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3325,6 +3546,7 @@
    "Contacto": "Colegio Mayor de San Bartolomé Padre Germán Bernal o Padre Camilo Quijano",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3340,6 +3562,7 @@
    "Contacto": "Eduard Roa - Secretario",
    "Correo electrónico": "psantaana@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3355,6 +3578,7 @@
    "Contacto": "NR",
    "Correo electrónico": "parroquiasantiagoapostolfontibon@yahoo.es",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3370,6 +3594,7 @@
    "Contacto": "NR",
    "Correo electrónico": " info@parroquiainmaculadaconcepciondesuba.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3385,6 +3610,7 @@
    "Contacto": "Diana Elsy Morales - Representante Legal",
    "Correo electrónico": "laterceraofs@hotmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3400,6 +3626,7 @@
    "Contacto": "Yesid Padilla Sacristán",
    "Correo electrónico": "pegipto@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3415,6 +3642,7 @@
    "Contacto": "Padre Marco Sampognero",
    "Correo electrónico": "parroquiadelasaguas@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3430,6 +3658,7 @@
    "Contacto": "Paola Cárdenas",
    "Correo electrónico": "plasnieves@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3445,6 +3674,7 @@
    "Contacto": "Jenny Rodríguez",
    "Correo electrónico": "psanantoniodepadua@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3460,9 +3690,10 @@
    "Contacto": "Blanca García",
    "Correo electrónico": "rectoriasanjuandedios@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Juan"
  },
  {
    "Nombre": "Iglesia San Pedro de Usme",
@@ -3475,6 +3706,7 @@
    "Contacto": "Hilba Herrera, Martha Ruiz",
    "Correo electrónico": "psanpedrodeusme@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3490,6 +3722,7 @@
    "Contacto": "NR",
    "Correo electrónico": "parroquiadesandiego@yahoo.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -3505,6 +3738,7 @@
    "Contacto": "Información General: Camila Mejía",
    "Correo electrónico": "imprentadistrital@alcaldiabogota.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3520,9 +3754,10 @@
    "Contacto": "Jhon Jairo Duarte - Taquilla",
    "Correo electrónico": "contactenos@jbb.gov.co",
    "Observaciones": "Coordinadora reservas de visitas guiadas y espacios Magda Gómez, reservaespacios@jbb.gov.co\nServicio al ciudadano quejas, reclamos y sugerencias Amilde Rozo, arozo@jbb.gov.co Ext. 1012",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Jardin"
  },
  {
    "Nombre": "La Balsa de la Ofrenda (Museo del Oro)",
@@ -3535,6 +3770,7 @@
    "Contacto": "Efraín Riaño, Director de la unidad de artes y colecciones, Ángela Pérez Mejía, Gerencia General.",
    "Correo electrónico": "prensablaa@banrep.gov.co   Felicitaciones, quejas y denuncias: atencionalciudadano@banrep.gov.co                                            ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3550,6 +3786,7 @@
    "Contacto": "NR",
    "Correo electrónico": "pacho822@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3565,6 +3802,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -3580,6 +3818,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
    "Foto": ""
@@ -3595,6 +3834,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Negocio",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3610,6 +3850,7 @@
    "Contacto": "William Ardila ( Representante Legal)",
    "Correo electrónico": "Presidencia@pulgasusaquen.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Negocio",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3625,6 +3866,7 @@
    "Contacto": "Paula Vargas",
    "Correo electrónico": "info@pulgassanalejo.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Negocio",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3640,9 +3882,10 @@
    "Contacto": "Angie Bernal, Coordinación y Prensa",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Puerta"
  },
  {
    "Nombre": "Monumento a la Batalla de Ayacucho",
@@ -3655,6 +3898,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Julio González Pola y García, Inauguración: 4 de junio de 1930 BICD - Resolución 0035 de 2006\nBICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3670,6 +3914,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: María Teresa Zerda y Manuel Venguechea, Inauguración: 1948 BICD - Resolución 0035 de 2006",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3685,6 +3930,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Estatua Ecuestre del Libertador: Emmanuel Fremiet, Monumento a los Héroes: Vico Consorti, Inauguración: 24 de julio de 1963 ",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3700,9 +3946,10 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Cipriano Rubio Ricaurte e Ismael Rojas, Inauguración: 31 de julio de 1910 BICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Heroes"
  },
  {
    "Nombre": "Monumento a los Militares y Policías caídos en Combate",
@@ -3715,6 +3962,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Taller del Espacio Público de Bogotá, Inauguración 7 de agosto de 2003 ",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3730,6 +3978,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Diseño de Alfredo Rodríguez Orgaz y Victorio Macho, grupo escultórico ejecutado por Victorio Macho y relieves de Bernardo Vieco BICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3745,6 +3994,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Gerardo Benítez, Inauguración: 24 de julio de 1965 ",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3760,9 +4010,10 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Octavio Martínez Charry, Inauguración: 14 de noviembre de 1987 ",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Americo"
  },
  {
    "Nombre": "Monumento Cristóbal Colón e Isabel de Castilla - Isabel la Católica y Cristóbal Colón",
@@ -3775,6 +4026,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Estaturas modeladas por César  Sighinolfi, Inauguración: 20 de julio de 1906 BICD - Resolución 0035 de 2006\nBICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3790,6 +4042,7 @@
    "Contacto": "Contacto 3550800 Extensión 154",
    "Correo electrónico": "idpc@idpc.gov.co; info@idpc.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3805,6 +4058,7 @@
    "Contacto": "Nancy Prieto, Coordinadora general y Prensa",
    "Correo electrónico": "jefe.banquetes@cht.com.co",
    "Observaciones": "Por encontrarse dentro del Hotel Tequendama, presta los servicios del Hotel",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -3820,6 +4074,7 @@
    "Contacto": "María Martínez: Información",
    "Correo electrónico": "o.martinez@musa.com.co, direccion@musa.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3835,9 +4090,10 @@
    "Contacto": "Efraín Riaño, Director de la unidad de artes y colecciones, Ángela Pérez Mejía, Gerencia General.",
    "Correo electrónico": "exposiciones@banrep.gov.co; prensablaa@banrep.gov.co, atencionalciudadano@banrep.gov.co;          ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Mamu"
  },
  {
    "Nombre": "Museo Botero - Banco de la República",
@@ -3850,9 +4106,10 @@
    "Contacto": "Efraín Riaño, Director de la unidad de artes y colecciones, Ángela Pérez Mejía, Gerencia General.",
    "Correo electrónico": "exposiciones@banrep.gov.co; prensablaa@banrep.gov.co, atencionalciudadano@banrep.gov.co;          ",
    "Observaciones": "Los profesores interesados en planear una visita con sus alumnos deben tener en cuenta las siguientes recomendaciones: reservar mínimo con quince (15) días de anticipación únicamente en los teléfonos 3 43 12 21 o 3 43 11 11 Ext. 03 15 o 19 97, tener en cuenta los horarios de atención para reserva de visitas: de lunes a viernes de 8:15 a 5:00 p.m., y elegir el horario y el día que más le convenga para su visita: lunes a viernes (excepto los martes) 9:00 a 10:30 a.m., 11:00 a 12:00 m o de 2:00 a 3:30 p.m.",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Botero"
  },
  {
    "Nombre": "Museo Casa Cuervo Urisarri",
@@ -3865,6 +4122,7 @@
    "Contacto": "Juan Darío Restrepo Figueroa - Coordinador, Carlos Buevas - Comunicador educativo Marisol Montoya Sánchez ",
    "Correo electrónico": "museos@caroycuervo.gov.co; contactenos@caroycuervo.go.co; carlos.buelvas@caroycuervo.gov.co",
    "Observaciones": "Casa Natal de Rufino José Cuervo, declarado como bien material patrimonial, posee 4 espacios para exposición dentro de la casa, maneja exposiciones de larga y corta duración; adicional funciona en la casa el Seminario Andrés Bello",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3880,6 +4138,7 @@
    "Contacto": "Clara Freidel - Dirección administrativa",
    "Correo electrónico": "direccionadministrativa@fundacionenriquegrau.com - administrativa@museocasagrau.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3895,6 +4154,7 @@
    "Contacto": "Directora: María Constanza Toquica, Juan Pablo Ochoa: Administración",
    "Correo electrónico": "museocolonial@mincultura.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3910,6 +4170,7 @@
    "Contacto": "Memet Charum Bayaz - Director ",
    "Correo electrónico": "musalr_bog@unal.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3925,6 +4186,7 @@
    "Contacto": "Alexandra Ferrucho - Recepción",
    "Correo electrónico": "gusdigital@gmail.com; prensamacbogota@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3940,6 +4202,7 @@
    "Contacto": "María Belén Saez de Ibarra - Directora",
    "Correo electrónico": "museo_arte@unal.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3955,9 +4218,10 @@
    "Contacto": "Mauricio Alario ( Director de Comunicaciones)",
    "Correo electrónico": "Comunicaciones@mambogota-com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Mambo"
  },
  {
    "Nombre": "Museo de Artes Gráficas - Imprenta Nacional de Colombia",
@@ -3970,6 +4234,7 @@
    "Contacto": "Ruth Rebón - Directora",
    "Correo electrónico": "museo@imprenta.gov.co",
    "Observaciones": "Para programar una visita guiada al Museo de Artes Gráficas solo se debe enviar un correo electrónico a la dirección museo@imprenta.gov.co especificando el día, la hora y el número de visitantes. No se brinda más información indica que ya la han contactado varias veces",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -3985,6 +4250,7 @@
    "Contacto": "Isabel Bernaza (Directora)",
    "Correo electrónico": "isabel.vernaza@utadeo.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4000,6 +4266,7 @@
    "Contacto": "Andrés Gutiérrez: Recepción en Juan Sámano.",
    "Correo electrónico": "atencionalciudadano@idpc.gov.co, educacionmdb@ipc.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4015,6 +4282,7 @@
    "Contacto": "Andrés Gutiérrez: Recepción",
    "Correo electrónico": "atencionalciudadano@idpc.gov.co, educacionmdb@ipc.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4030,6 +4298,7 @@
    "Contacto": "Yesica Rodríguez - VoluntariaPbx",
    "Correo electrónico": "info@maloka.org",
    "Observaciones": "El museo presta los mismos servicios del Centro interactivo.",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4045,6 +4314,7 @@
    "Contacto": "Víctor Rodríguez (  Coordinador de Colecciones)",
    "Correo electrónico": "Museodeciencias@unbosque.edu.co",
    "Observaciones": "Para los talleres se deben realizar la inscripción vía telefónica",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4060,6 +4330,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "NR",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4075,6 +4346,7 @@
    "Contacto": "Carmiña Tovar",
    "Correo electrónico": "com_museo@anmdecolombia.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4090,6 +4362,7 @@
    "Contacto": "Verónica Rocha - Coordinadora",
    "Correo electrónico": "museohn_nal@unal.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4105,6 +4378,7 @@
    "Contacto": "Julián Betancourt Mellizo - Director ",
    "Correo electrónico": "mcj_fcbog@unal.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4120,9 +4394,10 @@
    "Contacto": "Elvira Pinzón Méndez, Coordinación General.",
    "Correo electrónico": "\nmuseoindependencia@mincultura.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Florero"
  },
  {
    "Nombre": "Museo de la Salle Bogotá",
@@ -4135,6 +4410,7 @@
    "Contacto": "Elizabeth Rubio - Auxiliar de caja\nEquipo administrativo.",
    "Correo electrónico": "secmuseo@lasalle.edu.co",
    "Observaciones": "Reservas para más de 15 personas: infomuseo@lasalle.edu.co",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4150,9 +4426,10 @@
    "Contacto": "NR",
    "Correo electrónico": "museodelosninos@colsubsidio.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Nino"
  },
  {
    "Nombre": "Museo de Suelos de Colombia",
@@ -4165,6 +4442,7 @@
    "Contacto": "Jacobo Contreras",
    "Correo electrónico": "visitasguiadas@igac.gov.co",
    "Observaciones": "Para las visitas guidas se debe remitir correo para autorización de ingreso. El Museo permanece cerrado",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4180,6 +4458,7 @@
    "Contacto": "Ángela Rivera: Área de Conservación, María Consuelo Osorio: Área de educación.",
    "Correo electrónico": "medi.museotrajes@uamerica.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4195,6 +4474,7 @@
    "Contacto": "Jaime y Zapata Administrador y director, Martha Molina, ventas en tienda.",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4210,6 +4490,7 @@
    "Contacto": "Adriana Caballero - Asistente de Información",
    "Correo electrónico": "informacion.planetariodebogota@idartes.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4225,6 +4506,7 @@
    "Contacto": "Andrés franco (Director)",
    "Correo electrónico": "andres.franco@utadeo.edu.co/museo.mar@utadeo.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4240,9 +4522,10 @@
    "Contacto": "Efraín Riaño, Director de la unidad de artes y colecciones, Ángela Pérez Mejía, Gerencia General.",
    "Correo electrónico": "prensablaa@banrep.gov.co   Felicitaciones, quejas y denuncias: atencionalciudadano@banrep.gov.co                                            ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Oro"
  },
  {
    "Nombre": "Museo del Vidrio de Bogotá MEVIBO",
@@ -4255,9 +4538,10 @@
    "Contacto": "Director del Museo: Fernando Pérez",
    "Correo electrónico": "museodelvidriodebogota@gmail.com/ ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Mevibo"
  },
  {
    "Nombre": "Museo Exposición El Hombre - Museo del ser humano ",
@@ -4270,6 +4554,7 @@
    "Contacto": "Melba Rocio León - Directora",
    "Correo electrónico": "museoexposicionelhombre@yahoo.com; museoexposicionelhombre@yahoo.com",
    "Observaciones": "Un profesor gratis por grupo si no pueden asistir al museo en los horarios estipuladoscomuniquese con Melba Rocio León al celular 3208543442 para sus boletas y programar en horario diferente",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4285,6 +4570,7 @@
    "Contacto": "Diego Fonegra - Director",
    "Correo electrónico": "casamuseosantander@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4300,6 +4586,7 @@
    "Contacto": "Alberiro Malla",
    "Correo electrónico": "museo@sgc.gov.co, cliente@sgc.gov.co",
    "Observaciones": "Las visitas guiadas gratuitas son con reserva anticipada",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4315,6 +4602,7 @@
    "Contacto": "Mayor Humberto Aparicio Nava",
    "Correo electrónico": "dinae.mupon@policia.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4330,6 +4618,7 @@
    "Contacto": "Luz Rincón",
    "Correo electrónico": "fundmop@gmail.com",
    "Observaciones": "Para visitas en grupo se debe solicitar permiso al correo electrónico y se asigna guía",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4345,6 +4634,7 @@
    "Contacto": "Marcela Conde (Directora Comercial)/Wilmer Mancilla ",
    "Correo electrónico": "boutique@museodelaesmeralda.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4360,6 +4650,7 @@
    "Contacto": "Carolina Llano Upegui - Vicepresidenta de Promoción y Recursos",
    "Correo electrónico": "info@museodelchico.com  ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4375,6 +4666,7 @@
    "Contacto": "Teniente Mauro Javier Roa Alfonso",
    "Correo electrónico": "museomilitar@cgfm.mil.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4390,9 +4682,10 @@
    "Contacto": "Mari amónica Fuentes (Monitora división educativa y cultural)",
    "Correo electrónico": "Mfuentes@museonacional.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Nacional"
  },
  {
    "Nombre": "Museo Nacional de Geografía y Cartografía -  Agustín Codazzi ",
@@ -4405,6 +4698,7 @@
    "Contacto": "Jacobo Contreras",
    "Correo electrónico": "cig@igac.gov.co",
    "Observaciones": "La biblioteca del Instituto ofrece servicios de préstamo de libros, revistas, servicio de internet interbibliotecario. Para las visitas guiadas es indispensable enviar correo electrónico )oficio con membrete de la institución y firma) dirigido a la oficina de Difusión y Mercadeo de Información (Paola Andrea Méndez) solicitando el tipo de visita a realizar",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4420,6 +4714,7 @@
    "Contacto": "José Gregorio Portilla Barbosa, Coordinador",
    "Correo electrónico": "jgportillab@unal.edu.co",
    "Observaciones": "Es importante aclarar  que el Observatorio está en los jardines del Palacio de Nariño, lugar de residencia del Presidente de la República, por lo que el  ingreso al mismo es restringido y ha de hacerse necesariamenteente a través del Palacio de Nariño. Para obtener el permiso de ingreso se debe  tramitar la solicitud  a través de la secretaría del Observatorio",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4435,6 +4730,7 @@
    "Contacto": "Fabián Lara",
    "Correo electrónico": "museooficialmsc@gmail.com",
    "Observaciones": "El horario de los fines de semana varía según la programación de partidos",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4450,6 +4746,7 @@
    "Contacto": "Coordinadora: Elvira Pinzón Méndez",
    "Correo electrónico": "quintabolivar@mincultura.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4465,6 +4762,7 @@
    "Contacto": "Directora: María Constanza Toquica, Administrador: Juan Pablo Ochoa",
    "Correo electrónico": "museocolonial@mincultura.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4480,6 +4778,7 @@
    "Contacto": "Jesús Muñoz - Coordinador General",
    "Correo electrónico": "museo@fucsalud.edu.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4495,9 +4794,10 @@
    "Contacto": "Patricia López",
    "Correo electrónico": "plascruces@arquibogota.org.co",
    "Observaciones": "Se puede hacer un acuerdo para recibir visitantes en recorrido con antelación.\nSe encuentra en restauración, pero esta se realiza poco a poco y por los mismos seminaristas.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Crucces"
  },
  {
    "Nombre": "Obelisco a Los Mártires, Obelisco a Los Mártires de La Patria",
@@ -4510,6 +4810,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": "Autor: Mario Lambardi, Inauguración 4 de marzo de 1880 BICD - Resolución 0035 de 2006\nBICNAL - Decreto 1584 de 1975",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -4525,9 +4826,10 @@
    "Contacto": "Nayibe Rosas",
    "Correo electrónico": "sec_cancilleria@arquibogota@org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Arzo"
  },
  {
    "Nombre": "Palacio de Justicia - Alfonso Reyes Echandia",
@@ -4540,6 +4842,7 @@
    "Contacto": "Tito Peralta",
    "Correo electrónico": "Tperalta@consejosuperiroramajudical.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4555,6 +4858,7 @@
    "Contacto": "Silvia Pupiales",
    "Correo electrónico": "Servicioalciudadano@mincultura.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -4570,6 +4874,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Los visitantes deben realizar solicitud para el ingreso",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -4585,6 +4890,7 @@
    "Contacto": "Carlos Rodolfo Borja Herrera, Información.",
    "Correo electrónico": "comunicaciones@gobiernodebogota.gov.co",
    "Observaciones": "Pertenece a la Alcaldía Mayor de Bogotá en un solo conjunto (Palacio Municipal, Palacio Liévano, Edificio Bicentenario)",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -4600,9 +4906,10 @@
    "Contacto": "NR",
    "Correo electrónico": "visitas@presidencia.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Narino"
  },
  {
    "Nombre": "Palacio San Carlos",
@@ -4615,6 +4922,7 @@
    "Contacto": "Cesar Franco",
    "Correo electrónico": "Cesar.franco@cancilleria.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -4630,6 +4938,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4645,6 +4954,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Parque de Escala Vecinal",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4660,6 +4970,7 @@
    "Contacto": "Administradores: Jairo Báez y Adriana Ocampo",
    "Correo electrónico": "adriana.campo@idrd.gov.co",
    "Observaciones": "Ya no funciona el museo, Parque de Escala Zonal",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4675,9 +4986,10 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "93"
  },
  {
    "Nombre": "Parque de la Independencia",
@@ -4690,6 +5002,7 @@
    "Contacto": "Ernesto Abello",
    "Correo electrónico": "Ernesto.abello@idrd.gov.co",
    "Observaciones": "Parque de Escala Metropolitana",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4705,9 +5018,10 @@
    "Contacto": "Mauricio Riboi ( Administrador)",
    "Correo electrónico": "Mauricio.roboi@idrd.gov.co",
    "Observaciones": "Parque de Escala Metropolitana",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Inde"
  },
  {
    "Nombre": "Parque de Las Cruces  ",
@@ -4720,6 +5034,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4735,6 +5050,7 @@
    "Contacto": "Andrés Sedano",
    "Correo electrónico": "andres.sedano@idrd.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4750,6 +5066,7 @@
    "Contacto": "Fernando González",
    "Correo electrónico": "fernando.gonzalez@idrd.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4765,9 +5082,10 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Perioditas"
  },
  {
    "Nombre": "Parque de Lourdes",
@@ -4780,6 +5098,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4795,6 +5114,7 @@
    "Contacto": "Esteban Felipe Piñeros Avendaño, Interprete Ambiental PEDH Torca Guaymaral",
    "Correo electrónico": "esfelp 64gmail.com",
    "Observaciones": "No cuenta con sede de administración",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4810,6 +5130,7 @@
    "Contacto": "CAROLINA SALGADO RAMIREZ ADMINISTRADORA HUMEDAL CAPELLANIA",
    "Correo electrónico": "carolina.salgado@ambientebogota.go.co/carolinasalgado07@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4825,6 +5146,7 @@
    "Contacto": "Johanna Pérez Sánchez - Administradora PEDH Córdoba SDA",
    "Correo electrónico": "johanna.perez@ambientebogota.gov.co",
    "Observaciones": "Por capacidad de carga máximo 20 personas",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4840,6 +5162,7 @@
    "Contacto": "Luz Stella Rey Sabogal (Coordinadora de Educación Ambiental) - Zaridanei Moreno Ramírez - Administradora PEDH SML",
    "Correo electrónico": "Luz.rey@ambientebogota.gov.co - zaridanei.moreno@ambientebogota.gov.co",
    "Observaciones": "El parque Ecológico Distrital Humedal Santa María del Lago, constituye una muestra representativa de la estructura y función de los humedales de la sabana de Bogotá, restaurada para optimizar su oferta ambiental como hábitat de las aves acuáticas y captar su valor como espacio público de educación ambiental y recreación pasiva para la ciudadanía (Articulo 25 decreto distrital 619 de 2000). Dentro de la propuesta de Parque Ecológico Distrital se busca que la comunidad se apropie del humedal y que genere una relación que beneficie al ser humano y a la naturaleza de manera sostenible.\nEl énfasis ambiental que se desarrolla desde esta aula es el agua como reservorio de vida. Mediante recorridos y diferentes actividades lúdicas y pedagógicas se analiza la importancia del recurso hídrico y los humedales como ecosistemas que brindan bienes y servicios ambientales. Sus visitantes tienen contacto directo con la diversidad de flora y fauna (especialmente aves acuáticas) propias de este tipo de ecosistema generando reflexiones y saldos pedagógicos sobre la importancia de la protección y manejo adecuado de estos sistemas. Se puede conocer también la estructura y composición de la vegetación acuática presente e identificar las especies arbóreas que componen su ronda hidráulica.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4855,6 +5178,7 @@
    "Contacto": "Alejandra Hustado (Suba) - María Helena Rabeya (Engativá)",
    "Correo electrónico": "alejauhg@gmail.com - marabeya@hotmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4870,6 +5194,7 @@
    "Contacto": "Ingeniera Adriana Obando Céspedes - Administradora PEDH El Burro",
    "Correo electrónico": "NR",
    "Observaciones": "El PEDH El Burro cuenta con senderos interpretativos delimitados. Capacidad de carga: 30 personas por recorrido. Los recorridos deben ser autorizados previamente por la administración del PEDH adscrita a la SDA",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4885,6 +5210,7 @@
    "Contacto": "Luisa Correa - Administradora Humedal la Vaca",
    "Correo electrónico": "luisa.correa@ambientebogota.gov.co",
    "Observaciones": "Recorridos interpretativos con previa autorización del Parque Distrital de Humedal La Vaca, adscrito a la SDA/SER. Cuenta con senderos delimitados y los recorridos son guiados por interpretes ambientales de la SDA",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4900,6 +5226,7 @@
    "Contacto": "Ingeniera Adriana Obando Céspedes - Administradora PEDH Techo",
    "Correo electrónico": "adriana.obando@ambientebogota.gpv.co",
    "Observaciones": "El PEDH Techo con senderos interpretativos delimitados. Capacidad de carga: 30 personas por recorrido. Los recorridos deben ser autorizados previamente por la administración de PEDH adscrita a la SDA",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4915,6 +5242,7 @@
    "Contacto": "Nelson Romero - Administrador, Manuel Peña - Interprete (301 370 47 40)",
    "Correo electrónico": "NA",
    "Observaciones": "El humedal El Salitre es un espacio con gran potencial de recreación activa como pasiva. Por estar en el centro geográfico del Distrito Capital, su oferta de servicios ambientales es muy importante: descontaminación del aire (consumo de CO2 principalmente), producción de oxigeno, mitigación de la propagación del ruido vehicular y de aviones (el bosque sirve de barrera sonora), es importante refugio de aves que habitan el parque Simón Bolívar. (entre julio de 2015 y julio de 2016 en monitoreo realizado por la SDA, se registran 53 especies de aves1 11 de estas migratorias.",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4930,6 +5258,7 @@
    "Contacto": "\nFrancy carolina Suárez - Administración PEDH",
    "Correo electrónico": "humedales@ambientebogota.gov.co; francycarolinasuarez@gmail.com",
    "Observaciones": "En caso de lluvia leve, moderada o severa se solicita a los visitantes suspender el recorrido y retirarse del área protegida",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4945,6 +5274,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4960,9 +5290,10 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Chico"
  },
  {
    "Nombre": "Parque El Nogal",
@@ -4975,6 +5306,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -4990,6 +5322,7 @@
    "Contacto": "Miguel Vanegas - Encargado",
    "Correo electrónico": "saulhernandez@idrd.gov.co",
    "Observaciones": "Parque de Escala Metropolitana",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5005,6 +5338,7 @@
    "Contacto": "NA",
    "Correo electrónico": "saul.hernandez@idrd.gov.co",
    "Observaciones": "Parque de escala Metropolitana",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5020,9 +5354,10 @@
    "Contacto": "Luz Unibio ",
    "Correo electrónico": "cielo.gomez@idrd.gov.co",
    "Observaciones": "Hay práctica libre gratuita cancha de tenis portería 2 de Lunes a Viernes de 5:30A.M. A 9:00A.M. Y 4:00P.M. A 5:30P.M. Sábados y Domingos de  4:00P.M. A 5:30P.M. en la cancha numero 3 y 4 la practica libre es una hora máximo por usuario.\nParque de Escala Metropolitana",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Tunal"
  },
  {
    "Nombre": "Parque Entrenubes",
@@ -5035,6 +5370,7 @@
    "Contacto": "NR ",
    "Correo electrónico": "NR ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5050,6 +5386,7 @@
    "Contacto": "Pablo Suárez - Administrador",
    "Correo electrónico": "pablo.suarez@idrd.gov.co",
    "Observaciones": "Parque de Escala Regional",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5065,6 +5402,7 @@
    "Contacto": "Carlos Avendaño",
    "Correo electrónico": "carlos.avendano@idrd.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5080,6 +5418,7 @@
    "Contacto": "Bárbara Mosquera - administradora",
    "Correo electrónico": "NR",
    "Observaciones": "Parque de Escala Metropolitana",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5095,9 +5434,10 @@
    "Contacto": "Luz Stella Rey Sabogal (Coordinadora de Educación Ambiental)",
    "Correo electrónico": "Luz.rey@ambientebogota.gov.co",
    "Observaciones": "Su diseño urbanístico está pensado en la cosmogonía muisca, por lo que cuenta con plazas, caminos, plazoletas y obeliscos con nombres alusivos a esta cultura. Por su excelente ubicación, en días despejados, alcanzan a observarse los nevados del Ruiz, del Tolima y de Santa Isabel, lo que permite generar reflexiones y discusiones en torno al tema del calentamiento global, énfasis temático de esta Aula. Otros temas de importancia que se abordan desde las acciones de educación ambiental son: diversidad cultural, territorio, residuos sólidos, ambiente sano y agua.",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Nevados"
  },
  {
    "Nombre": "Parque Mundo Aventura",
@@ -5110,9 +5450,10 @@
    "Contacto": "Yesica Naranjo -  Auxiliar servicio al cliente",
    "Correo electrónico": "servicioalcliente@mundoaventura.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Aventura"
  },
  {
    "Nombre": "Parque Nacional Enrique Olaya Herrera",
@@ -5125,6 +5466,7 @@
    "Contacto": "Jorge Briceño Páez",
    "Correo electrónico": "Jorge.briceño@idrd.gov.co",
    "Observaciones": "Parque de Escala Metropolitana",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5140,6 +5482,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5155,6 +5498,7 @@
    "Contacto": "NR ",
    "Correo electrónico": "NR ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5170,9 +5514,10 @@
    "Contacto": "Luisa Tenaria - Recepción",
    "Correo electrónico": "contacto@salitremagico.com.co\ngrupos@salitremagico.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Magico"
  },
  {
    "Nombre": "Parque San Andrés",
@@ -5185,6 +5530,7 @@
    "Contacto": "Joselio Triviño - Juan López",
    "Correo electrónico": "joselino.trivino@idrd.gov.co - juan.lopez@idrd.gov.co",
    "Observaciones": "Parque de Escala Zonal",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5200,6 +5546,7 @@
    "Contacto": "NR",
    "Correo electrónico": "atncliente@idrd.gov.co",
    "Observaciones": "Parque de Escala Metropolitana",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5215,6 +5562,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Parque de Escala Vecinal",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5230,6 +5578,7 @@
    "Contacto": "Sandra Rivera",
    "Correo electrónico": "sandra.rivera@idrd.gov.co",
    "Observaciones": "Parque de Escala Zonal",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5245,6 +5594,7 @@
    "Contacto": "Pablo García/ Ciro Torres Barajas( encargados del parque)",
    "Correo electrónico": "Pablo.garcia@idrd.gov.co",
    "Observaciones": "Parque de Escala Metropolitana",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5260,6 +5610,7 @@
    "Contacto": "NR",
    "Correo electrónico": "atncliente@idrd.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5275,6 +5626,7 @@
    "Contacto": "Monseñor Álvaro Tiberio Vidales Bedoya.",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5290,6 +5642,7 @@
    "Contacto": "Iván Pérez",
    "Correo electrónico": "parroquialaveracruz@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5305,6 +5658,7 @@
    "Contacto": "Ruby Velandia",
    "Correo electrónico": "parroquiachiquinquirabogota@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5320,6 +5674,7 @@
    "Contacto": "Patricia Calvo",
    "Correo electrónico": "parroquiadivinosalvador-despacho@hotmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5335,6 +5690,7 @@
    "Contacto": "Padre Eugenio Fernández",
    "Correo electrónico": "psantabarbara@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5350,6 +5706,7 @@
    "Contacto": "Padre Juan Carlos Bejarano",
    "Correo electrónico": "psantabarbaradeusaquen@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5365,9 +5722,10 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Septima"
  },
  {
    "Nombre": "Paseo del Virrey",
@@ -5380,6 +5738,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5395,6 +5754,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5410,6 +5770,7 @@
    "Contacto": "Hernando Mendoza, Gerente general.",
    "Correo electrónico": "pasfloridaelsa@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5425,6 +5786,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5440,6 +5802,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5455,9 +5818,10 @@
    "Contacto": "María Mercedes Santos",
    "Correo electrónico": "Maria.santos@idartes-gov.co; informacion.planetariodebogota@idartes.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Planetario "
  },
  {
    "Nombre": "Plaza de Bolívar",
@@ -5470,9 +5834,10 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "PlazaBolivar"
  },
  {
    "Nombre": "Plaza de Los Mártires",
@@ -5485,6 +5850,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5500,6 +5866,7 @@
    "Contacto": "Mauricio Ribon",
    "Correo electrónico": "Mauricio.ribon@idrd.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5515,9 +5882,10 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Usaquen "
  },
  {
    "Nombre": "Plaza Distrital de Mercado   20 de Julio",
@@ -5530,6 +5898,7 @@
    "Contacto": "Contacto sede: Albert Espitia",
    "Correo electrónico": "albert.espitia@ipes.gov .co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5545,6 +5914,7 @@
    "Contacto": "Gloria Valbuena",
    "Correo electrónico": "glvalbuena@ipes.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5560,9 +5930,10 @@
    "Contacto": "Juan Sebastián Reyes",
    "Correo electrónico": "Jreyes@ipes.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Perseverancia"
  },
  {
    "Nombre": "Plaza Fundacional de Bosa",
@@ -5575,6 +5946,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5590,6 +5962,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5605,6 +5978,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5620,6 +5994,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5635,6 +6010,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5650,6 +6026,7 @@
    "Contacto": "NA",
    "Correo electrónico": "info@plazaimperialcc.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -5665,6 +6042,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5680,6 +6058,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5695,9 +6074,10 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Quevedo"
  },
  {
    "Nombre": "Plazoleta del Concejo",
@@ -5710,6 +6090,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5725,6 +6106,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5740,6 +6122,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5755,6 +6138,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -5770,6 +6154,7 @@
    "Contacto": "Efraín Riaño, Director de la unidad de artes y colecciones, Ángela Pérez Mejía, Gerencia General.",
    "Correo electrónico": "prensablaa@banrep.gov.co   Felicitaciones, quejas y denuncias: atencionalciudadano@banrep.gov.co                                            ",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5785,6 +6170,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -5800,6 +6186,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -5815,6 +6202,7 @@
    "Contacto": "Patricia Bárcenas - Información",
    "Correo electrónico": "servicioalcliente@portal80.com.co, lacero@portal80.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -5830,6 +6218,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -5845,6 +6234,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -5860,6 +6250,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -5875,6 +6266,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -5890,6 +6282,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -5905,6 +6298,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": " BICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -5920,6 +6314,7 @@
    "Contacto": "Ingrid Duarte Pinto - Arquitecta Contratista - 3795750 Extensión 902",
    "Correo electrónico": "ingrid.duarte@idpc.gov.co ",
    "Observaciones": " BICNAL - Resolución 0395 de 2006",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -5935,6 +6330,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -5950,6 +6346,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -5965,6 +6362,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "NR",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -5980,6 +6378,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -5995,6 +6394,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -6010,6 +6410,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6025,6 +6426,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6040,9 +6442,10 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Andresdc"
  },
  {
    "Nombre": "Restaurante Casa Santa Clara",
@@ -6055,6 +6458,7 @@
    "Contacto": "Nubia Benitez - Encargada mercadeo",
    "Correo electrónico": "asistente@restaurantesanisidro.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
    "Foto": ""
@@ -6070,9 +6474,10 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
-   "Foto": ""
+   "Foto": "CC"
  },
  {
    "Nombre": "Rieles del Tranvía",
@@ -6085,6 +6490,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
    "Foto": ""
@@ -6100,6 +6506,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
    "Foto": ""
@@ -6115,6 +6522,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
    "Foto": ""
@@ -6130,6 +6538,7 @@
    "Contacto": "Roberto Téllez: Servicio a público, Diana Patricia Restrepo: Dirección Técnica, Rafael Torres Acosta: Subdirección red de Bibliotecas.",
    "Correo electrónico": "atencionalciudadano@idpc.gov.co, educacionmdb@ipc.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Ocio",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6145,6 +6554,7 @@
    "Contacto": "Carolina Buitrago - Recepción",
    "Correo electrónico": "calidad@salitreplaza.com.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -6160,6 +6570,7 @@
    "Contacto": "Andrea Salazar ( Coordinadora de Mercadeo)",
    "Correo electrónico": "Mercadeosantaana@mallsolutions.net",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
    "Foto": ""
@@ -6175,6 +6586,7 @@
    "Contacto": "Constanza Valencia",
    "Correo electrónico": "administracion@ninojesus20dejulio.org",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6190,9 +6602,10 @@
    "Contacto": "Yulieth Camargo",
    "Correo electrónico": "colegioleon13@salesianosbogota.org",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Carmen"
  },
  {
    "Nombre": "Santuario Nuestra Señora de Guadalupe",
@@ -6205,6 +6618,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6220,6 +6634,7 @@
    "Contacto": "Ligia Salazar",
    "Correo electrónico": "santcerros@outlook.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6235,6 +6650,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -6250,6 +6666,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Negocio",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -6265,6 +6682,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6280,6 +6698,7 @@
    "Contacto": "Leonardo Cárdenas - Rector",
    "Correo electrónico": "economatoseminario@yahoo.com; seminariobogota@arquibogota.org.co",
    "Observaciones": "Las misas y seminarios son privados, pueden ingresar solo estudiantes y funcionarios",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6295,6 +6714,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -6310,6 +6730,7 @@
    "Contacto": "Yesica Rodríguez - VoluntariaPbx",
    "Correo electrónico": "info@maloka.org",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -6325,9 +6746,10 @@
    "Contacto": "Yolanda Cohn",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Sinagoga"
  },
  {
    "Nombre": "Sitio del Asesinato de Jorge Eliecer Gaitán",
@@ -6340,6 +6762,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -6355,6 +6778,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Negocio",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -6370,6 +6794,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6385,6 +6810,7 @@
    "Contacto": "Heidy Briseño",
    "Correo electrónico": "info@idartes.gov.co / carolaza@idartes.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -6400,6 +6826,7 @@
    "Contacto": "Diana Valenzuela - Coordinadora Artística",
    "Correo electrónico": "contactenos@teatrodebellasartesbogota.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -6415,6 +6842,7 @@
    "Contacto": "NR",
    "Correo electrónico": "teatrocamarindelcarmen@yahoo.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -6430,9 +6858,10 @@
    "Contacto": "Manuela Valderin",
    "Correo electrónico": "mvaldiri@mincultura.gov.co",
    "Observaciones": "Visita en Inglés y Francés: es necesario escribir un correo a visitasguiadas@teatrocolon.gov.co con mínimo una semana de anticipación. Precio por persona: 8000",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Colon"
  },
  {
    "Nombre": "Teatro de Cristóbal Colón",
@@ -6445,6 +6874,7 @@
    "Contacto": "Daniela Álzate               \nAsesora de mercadeo                   \nTeléfono: (571) 381 6380 Ext. 5116                   \ndalzate@mincultura.gov.co         \n\nManuela Valdiri Pombo              \nAsesora RR.PP y pedagógicas                  \nTeléfono: (571) 381 6380 Ext. 5114                   \nmvaldiri@mincultura.gov.co",
    "Correo electrónico": "info@teatrocolon.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -6460,6 +6890,7 @@
    "Contacto": "María Del Pilar Acosta",
    "Correo electrónico": "Maria.acosta@idartes.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -6475,9 +6906,10 @@
    "Contacto": "Pablo Restrepo",
    "Correo electrónico": "pablo.restrepo@idartes.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
-   "Foto": ""
+   "Foto": "Gaitan"
  },
  {
    "Nombre": "Telón de Boca del Teatro de Cristóbal Colón",
@@ -6490,6 +6922,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Aplica la información correspondiente al Teatro Colón",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -6505,6 +6938,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -6520,6 +6954,7 @@
    "Contacto": "NA",
    "Correo electrónico": "sistema@arquibogota.org.co",
    "Observaciones": "Santa María del cenáculo es la parroquia mas pequeña estructuralmente y por territorio de la arquidiócesis de Bogotá y cuenta con una capilla el templete eucarístico",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Religioso",
    "Foto": ""
@@ -6535,6 +6970,7 @@
    "Contacto": "NR",
    "Correo electrónico": "parroquiacristoreybogota@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6550,6 +6986,7 @@
    "Contacto": "Martha Rivera ",
    "Correo electrónico": "franciscobgta@hotmail.com",
    "Observaciones": "No se permite tomar fotografías, uno de los espacios más deslumbrantes del arte colonial es el presbiterio.",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6565,6 +7002,7 @@
    "Contacto": "Ana Pérez, Angélica Barrera, Clemencia Montes.",
    "Correo electrónico": "p.sanbernardino_bosa@hotmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6580,9 +7018,10 @@
    "Contacto": "Nubia Esperanza Contreras - Auxiliar Administrativo",
    "Correo electrónico": "templolacandelaria@hotmail.com, iglesiacandelaria9@gmail.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
-   "Foto": ""
+   "Foto": "Temploc"
  },
  {
    "Nombre": "Templo Parroquial (Católico) Nuestra Señora de Los Ángeles de la Porciúncula",
@@ -6595,6 +7034,7 @@
    "Contacto": "NR",
    "Correo electrónico": "plaporciuncula@arquibogota.org.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6610,6 +7050,7 @@
    "Contacto": "Mauricio Ribon",
    "Correo electrónico": "Mauricio.ribon@idrd.gov.co",
    "Observaciones": "La temporada taurina se encuentra pausada mientras se decide que pasara, si aprueban definitivamente las corridas o dejan de ser permitidas finalmente. Cuenta con los servicios que brinda la Plaza",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6625,9 +7066,10 @@
    "Contacto": "Jorge Briceño Páez",
    "Correo electrónico": "Jorge.briceño@idrd.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "Reloj"
  },
  {
    "Nombre": "Transmilenio",
@@ -6640,6 +7082,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -6655,6 +7098,7 @@
    "Contacto": "Luis Caicedo-secretario",
    "Correo electrónico": "auxcaja@cementeriodeldistrito.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -6670,9 +7114,10 @@
    "Contacto": "Maicol Pinzón ( coordinador finalización)",
    "Correo electrónico": "Mpinzon@unicentrobogota.com",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Negocio",
-   "Foto": ""
+   "Foto": "Unicentro"
  },
  {
    "Nombre": "Unidad Deportiva El Salitre - UDS",
@@ -6685,6 +7130,7 @@
    "Contacto": "Esmeralda Durán - Recepción",
    "Correo electrónico": "william.g@idrd.gov.co",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Mochilero",
    "Perfil 2": "Ocio",
    "Foto": ""
@@ -6700,6 +7146,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -6715,6 +7162,7 @@
    "Contacto": "NR",
    "Correo electrónico": "NR",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Cultural",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -6730,6 +7178,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6745,6 +7194,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Religioso",
    "Perfil 2": "Cultural",
    "Foto": ""
@@ -6760,6 +7210,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -6775,6 +7226,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -6790,6 +7242,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Mochilero",
    "Perfil 2": "",
    "Foto": ""
@@ -6805,6 +7258,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "La macarena mas conocida como Zona M",
+   "Acompañamiento": "Solo",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
    "Foto": ""
@@ -6820,6 +7274,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "Mochilero",
    "Foto": ""
@@ -6835,9 +7290,10 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "Mochilero",
-   "Foto": ""
+   "Foto": "G"
  },
  {
    "Nombre": "Zona gastronómica de La Macarena",
@@ -6850,6 +7306,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Familiar ",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
    "Foto": ""
@@ -6865,6 +7322,7 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
    "Foto": ""
@@ -6880,8 +7338,9 @@
    "Contacto": "NA",
    "Correo electrónico": "NA",
    "Observaciones": "Ninguna",
+   "Acompañamiento": "Amigos",
    "Perfil 1": "Ocio",
    "Perfil 2": "",
-   "Foto": ""
+   "Foto": "T"
  }
 ]
